@@ -6,11 +6,19 @@ import { time as formatTime } from '../../utils/format';
 
 import './Game.scss';
 
+const VISIBLE_STATISTICS = [
+    { id: 'goal', name: 'Goals' },
+    { id: 'dangerous attack', name: 'Dangerous attacks' },
+    { id: 'shot on target', name: 'Shots on target' },
+    { id: 'corner', name: 'Corners' }
+];
+
 class Game extends React.Component {
     static propTypes = {
         home: PropTypes.string,
         away: PropTypes.string,
         playtime: PropTypes.number,
+        incidents: PropTypes.arrayOf(PropTypes.object),
         stopped: PropTypes.bool
     };
 
@@ -18,6 +26,7 @@ class Game extends React.Component {
         home: 'Team 1',
         away: 'Team 2',
         playtime: 0,
+        incidents: [],
         stopped: false
     };
 
@@ -71,7 +80,7 @@ class Game extends React.Component {
     }
 
     render() {
-        const { home, away } = this.props;
+        const { home, away, incidents } = this.props;
         const { playtime } = this.state;
 
         return (
@@ -83,12 +92,15 @@ class Game extends React.Component {
                 </header>
 
                 <Statistics
-                    options={[
-                        { id: 'goal', name: 'Goals', home: 1, away: 3 },
-                        { id: 'dangerous attack', name: 'Dangerous attacks', home: 5, away: 3 },
-                        { id: 'shot on target', name: 'Shot on target', home: 1, away: 2 },
-                        { id: 'corner', name: 'Corners', home: 0, away: 0 }
-                    ]}
+                    options={
+                        VISIBLE_STATISTICS.map(option => {
+                            return {
+                                ...option,
+                                home: incidents.filter(i => i.team === 'home' && i.type === option.id).length,
+                                away: incidents.filter(i => i.team === 'away' && i.type === option.id).length
+                            };
+                        })
+                    }
                 />
             </div>
         );
