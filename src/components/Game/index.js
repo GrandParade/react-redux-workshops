@@ -1,6 +1,7 @@
 import React, { PropTypes } from 'react';
 
 import Statistics from '../Statistics';
+import Timeline from '../Timeline';
 
 import { time as formatTime } from '../../utils/format';
 
@@ -101,6 +102,14 @@ class Game extends React.Component {
                             };
                         })
                     }
+                />
+
+                <Timeline
+                    width={ 450 }
+                    viewportHeight={ 300 }
+                    heightPerSecond={ 3 }
+                    incidents={ incidents }
+                    playtime={ playtime }
                 />
             </div>
         );
