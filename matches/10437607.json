@@ -1,0 +1,1080 @@
+{
+  "id": "10437607",
+  "name": "Jagiellonia Bialystok vs Slask Wroclaw",
+  "timestamp": 1455901200000,
+  "home": "Jagiellonia Bialystok",
+  "away": "Slask Wroclaw",
+  "league": "Ekstraklasa",
+  "stadium": "Stadium Miejski w Bialystok",
+  "incidents": [
+    {
+      "type": "start 1st half, kickoff:",
+      "clock": true,
+      "timestamp": 1455901259000,
+      "playtime": 0,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "The first-half is now underway."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455901356000,
+      "playtime": 97000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455901409000,
+      "playtime": 150000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455901561000,
+      "playtime": 302000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455901656000,
+      "playtime": 397000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455901668000,
+      "playtime": 409000,
+      "team": "home",
+      "weight": -1,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455901714000,
+      "playtime": 455000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455901767000,
+      "playtime": 508000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455901837000,
+      "playtime": 578000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.6
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455901909000,
+      "playtime": 650000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455901940000,
+      "playtime": 681000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455901950000,
+      "playtime": 691000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.75
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455901950000,
+      "playtime": 691000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455902105000,
+      "playtime": 846000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7777777777777778
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455902105000,
+      "playtime": 846000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7777777777777778
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455902243000,
+      "playtime": 984000,
+      "team": "home",
+      "weight": -1,
+      "momentum": 0.75
+    },
+    {
+      "type": "penalty",
+      "clock": true,
+      "timestamp": 1455902243000,
+      "playtime": 984000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.75,
+      "comment": "An attacking Slask Wroclaw player has been brought down in the area ... It's a penalty!"
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455902290000,
+      "playtime": 1031000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "goal",
+      "clock": true,
+      "timestamp": 1455902300000,
+      "playtime": 1041000,
+      "team": "away",
+      "weight": 5,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455902378000,
+      "playtime": 1119000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455902388000,
+      "playtime": 1129000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.42857142857142855,
+      "comment": "In Bialystok, Jagiellonia Bialystok push forward quickly but are pulled up for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455902629000,
+      "playtime": 1370000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455902670000,
+      "playtime": 1411000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455902717000,
+      "playtime": 1458000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455902741000,
+      "playtime": 1482000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.46153846153846156
+    },
+    {
+      "type": "game suspended - player injured",
+      "clock": true,
+      "timestamp": 1455902789000,
+      "playtime": 1530000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.46153846153846156,
+      "comment": "Bartosz Frankowski waits before resuming play because Igors Tarasovs for Jagiellonia Bialystok is still down."
+    },
+    {
+      "type": "game clock start",
+      "clock": true,
+      "timestamp": 1455902799000,
+      "playtime": 1540000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.46153846153846156,
+      "comment": "Play is underway once more."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455902868000,
+      "playtime": 1609000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.46153846153846156
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1455902926000,
+      "playtime": 1667000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5,
+      "comment": "Jagiellonia Bialystok push forward at Stadium Miejski w Bialystok and Piotr Grzelczak gets in a strike. This is blocked, however, by a determined Slask Wroclaw defence."
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455903050000,
+      "playtime": 1791000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4666666666666667
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455903070000,
+      "playtime": 1811000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4666666666666667
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455903070000,
+      "playtime": 1811000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4375
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455903131000,
+      "playtime": 1872000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4375
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455903196000,
+      "playtime": 1937000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.47058823529411764
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455903303000,
+      "playtime": 2044000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.47058823529411764
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455903313000,
+      "playtime": 2054000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.47058823529411764,
+      "comment": "Jagiellonia Bialystok advance rapidly upfield but Bartosz Frankowski blows for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455903452000,
+      "playtime": 2193000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.47058823529411764
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455903485000,
+      "playtime": 2226000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.47058823529411764
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455903559000,
+      "playtime": 2300000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455903587000,
+      "playtime": 2328000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.42105263157894735
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455903608000,
+      "playtime": 2349000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42105263157894735
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455903608000,
+      "playtime": 2349000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.42105263157894735,
+      "comment": "At Stadium Miejski w Bialystok, Slask Wroclaw are penalized for being offside."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455903670000,
+      "playtime": 2411000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455903690000,
+      "playtime": 2431000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455903730000,
+      "playtime": 2471000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455903730000,
+      "playtime": 2471000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4,
+      "comment": "Jagiellonia Bialystok's Fedor Cernych has run offside."
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455903776000,
+      "playtime": 2517000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "goal",
+      "clock": true,
+      "timestamp": 1455903810000,
+      "playtime": 2551000,
+      "team": "home",
+      "weight": 5,
+      "momentum": 0.5384615384615384
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455903810000,
+      "playtime": 2551000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455903898000,
+      "playtime": 2639000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455903918000,
+      "playtime": 2659000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.5769230769230769
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455903995000,
+      "playtime": 2736000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5925925925925926
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455904015000,
+      "playtime": 2756000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5925925925925926
+    },
+    {
+      "type": "stop 1st half",
+      "clock": false,
+      "timestamp": 1455904035000,
+      "playtime": 2756000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5925925925925926,
+      "comment": "The whistle has gone to end the first-half."
+    },
+    {
+      "type": "substitution",
+      "clock": false,
+      "timestamp": 1455904999000,
+      "playtime": 2756000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5925925925925926,
+      "comment": "Slask Wroclaw make their first substitution with Jacek Kielb replacing Andras Gosztonyi."
+    },
+    {
+      "type": "substitution",
+      "clock": false,
+      "timestamp": 1455905009000,
+      "playtime": 2756000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5925925925925926,
+      "comment": "The home team replace Matija Sirok with Lukasz Burliga."
+    },
+    {
+      "type": "start 2nd half, kickoff:",
+      "clock": true,
+      "timestamp": 1455905039000,
+      "playtime": 2706000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5925925925925926,
+      "comment": "The second-half has started."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455905198000,
+      "playtime": 2865000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5925925925925926
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455905228000,
+      "playtime": 2895000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5925925925925926
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455905252000,
+      "playtime": 2919000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5925925925925926
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455905394000,
+      "playtime": 3061000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6071428571428571
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455905394000,
+      "playtime": 3061000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6071428571428571
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455905498000,
+      "playtime": 3165000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5862068965517241
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455905538000,
+      "playtime": 3205000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5666666666666667
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455905548000,
+      "playtime": 3215000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5666666666666667
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455905548000,
+      "playtime": 3215000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5483870967741935
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455905599000,
+      "playtime": 3266000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5483870967741935
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455905674000,
+      "playtime": 3341000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5625
+    },
+    {
+      "type": "game suspended - player injured",
+      "clock": true,
+      "timestamp": 1455905730000,
+      "playtime": 3397000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5625,
+      "comment": "Taras Romanchuk is down and play has been interrupted for a few moments."
+    },
+    {
+      "type": "game clock start",
+      "clock": true,
+      "timestamp": 1455905760000,
+      "playtime": 3427000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5625,
+      "comment": "Play has been resumed."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455905788000,
+      "playtime": 3455000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5625
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455905833000,
+      "playtime": 3500000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5625
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455905843000,
+      "playtime": 3510000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5625,
+      "comment": "Slask Wroclaw are whistled for offside."
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455905903000,
+      "playtime": 3570000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5757575757575758
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455905999000,
+      "playtime": 3666000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5757575757575758
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455906026000,
+      "playtime": 3693000,
+      "team": "home",
+      "weight": -1,
+      "momentum": 0.5625
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455906072000,
+      "playtime": 3739000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5625
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455906082000,
+      "playtime": 3749000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5625,
+      "comment": "Slask Wroclaw are caught offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455906147000,
+      "playtime": 3814000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5625
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455906197000,
+      "playtime": 3864000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5625
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455906227000,
+      "playtime": 3894000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5625
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455906309000,
+      "playtime": 3976000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5625
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455906309000,
+      "playtime": 3976000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5454545454545454
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1455906319000,
+      "playtime": 3986000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5294117647058824,
+      "comment": "Slask Wroclaw's Kamil Bilinski gets in a shot but it is blocked by a Jagiellonia Bialystok defender."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455906339000,
+      "playtime": 4006000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5294117647058824
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455906367000,
+      "playtime": 4034000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5294117647058824
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455906377000,
+      "playtime": 4044000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5294117647058824,
+      "comment": "Jagiellonia Bialystok push upfield but Bartosz Frankowski quickly pulls them for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455906480000,
+      "playtime": 4147000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5294117647058824
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455906739000,
+      "playtime": 4406000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5294117647058824
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455906759000,
+      "playtime": 4426000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5294117647058824,
+      "comment": "Karol Swiderski is on a sub for Fedor Cernych for Jagiellonia Bialystok."
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455906810000,
+      "playtime": 4477000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5142857142857142
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1455906868000,
+      "playtime": 4535000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5,
+      "comment": "Important block from the Jagiellonia Bialystok defence as Tomasz Holota fires in a strike for Slask Wroclaw."
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455906888000,
+      "playtime": 4555000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5135135135135135
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455906919000,
+      "playtime": 4586000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5135135135135135
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455906949000,
+      "playtime": 4616000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5263157894736842
+    },
+    {
+      "type": "goal",
+      "clock": true,
+      "timestamp": 1455907009000,
+      "playtime": 4676000,
+      "team": "home",
+      "weight": 5,
+      "momentum": 0.5813953488372093
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455907009000,
+      "playtime": 4676000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455907068000,
+      "playtime": 4735000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5777777777777777
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455907088000,
+      "playtime": 4755000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5777777777777777
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455907119000,
+      "playtime": 4786000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5777777777777777
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455907293000,
+      "playtime": 4960000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5777777777777777
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455907373000,
+      "playtime": 5040000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5652173913043478
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455907383000,
+      "playtime": 5050000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.574468085106383
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455907383000,
+      "playtime": 5050000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.574468085106383
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455907415000,
+      "playtime": 5082000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.574468085106383,
+      "comment": "Karol Mackiewicz is replacing Przemyslaw Frankowski for the home team."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455907435000,
+      "playtime": 5102000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.574468085106383
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455907485000,
+      "playtime": 5152000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.574468085106383
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455907505000,
+      "playtime": 5172000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.574468085106383,
+      "comment": "Romuald Szukielowicz is making the team's second substitution at Stadium Miejski w Bialystok with Peter Grajciar replacing Robert Pich."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455907546000,
+      "playtime": 5213000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.574468085106383
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455907556000,
+      "playtime": 5223000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.5869565217391305
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455907626000,
+      "playtime": 5293000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5869565217391305
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455907676000,
+      "playtime": 5343000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5869565217391305,
+      "comment": "The away team have replaced Tomasz Holota with Konrad Kaczmarek. This is the third substitution made today by Romuald Szukielowicz."
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455907726000,
+      "playtime": 5393000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455907933000,
+      "playtime": 5600000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5833333333333334
+    },
+    {
+      "type": "stop 2nd half",
+      "clock": false,
+      "timestamp": 1455907943000,
+      "playtime": 5600000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5833333333333334,
+      "comment": "Full-time! The final score is 2 - 1."
+    },
+    {
+      "type": "stop game",
+      "clock": false,
+      "timestamp": 1455907943000,
+      "playtime": 5600000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5833333333333334
+    }
+  ]
+}

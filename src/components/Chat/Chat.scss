@@ -1,0 +1,74 @@
+.chat {
+  position: absolute;
+  top: 0;
+  z-index: 2;
+  left: 50%;
+  width: 550px;
+  height: 200px;
+  padding: 15px;
+  opacity: 0.3;
+  transform: translateX(-50%);
+  background: -moz-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(0,0,0,0.3) 54%, rgba(0,0,0,0) 79%, rgba(0,0,0,0) 100%);
+  background: -webkit-linear-gradient(top, rgba(0,0,0,1) 0%,rgba(0,0,0,0.3) 54%,rgba(0,0,0,0) 79%,rgba(0,0,0,0) 100%);
+  background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,0.3) 54%,rgba(0,0,0,0) 79%,rgba(0,0,0,0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=0 );
+  text-align: left;
+
+  &:hover {
+    opacity: 1;
+
+    .chat__messages {
+      overflow: auto;
+    }
+  }
+}
+
+.chat__messages {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  text-shadow: 0 1px 0 #000, 0 -1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
+  height: 85%;
+  height: calc(100% - 1.5em - 10px);
+  overflow: hidden;
+
+  li {
+    margin: 3px 0;
+
+    strong {
+      margin-right: 5px;
+    }
+  }
+}
+
+.chat__form {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+
+  input {
+    width: 100%;
+  }
+
+  input, button {
+    font-size: 0.6em;
+    height: 2.5em;
+    line-height: 2.5em;
+    padding: 0 10px;
+    border: 1px solid #000;
+    outline: none;
+  }
+
+  button {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: #ccc;
+
+    &:hover {
+      background: #aaa;
+      cursor: pointer;
+    }
+  }
+}

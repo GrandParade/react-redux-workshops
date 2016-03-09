@@ -1,0 +1,34 @@
+.timeline {
+  overflow: scroll;
+  width: 450px;
+  height: 300px;
+  margin-top: -2px;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  svg {
+    display: block;
+    transform: rotate(-180deg);
+    transform-origin: 50% 50%;
+  }
+
+  polygon {
+    fill: #cc3600;
+    stroke: #cc3600;
+    stroke-width: 0;
+  }
+}
+
+.timeline__incident {
+  fill: #000;
+  transform: scale(1);
+  transform-origin: 50% 50%;
+  transition: 100ms transform ease-in;
+
+  &:hover {
+    fill: #fff;
+    transform: scale(1.5);
+  }
+}

@@ -1,0 +1,83 @@
+$headerHeight: 60px;
+
+.game {
+  position: relative;
+  margin: 50px auto;
+  background: #262333;
+  width: 450px;
+  min-height: 500px;
+
+  header {
+    overflow-x: hidden;
+    overflow-y: visible;
+    background: rgba(0, 0, 0, .2);
+    border-bottom: 1px solid #262333;
+  }
+
+  .tabs {
+    position: absolute;
+    right: 100%;
+    top: 0;
+    list-style-type: none;
+    white-space: nowrap;
+    transform: rotate(-90deg);
+    transform-origin: 100% 0;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 40px;
+
+    li {
+      display: inline-block;
+
+      a {
+        display: block;
+        margin-left: 1px;
+        padding: 0 10px;
+        background: #000;
+        color: #fff;
+        text-decoration: none;
+      }
+
+      &.active a {
+        background: #fff;
+        color: #000;
+      }
+    }
+  }
+}
+
+.game__team, .game__timer {
+  line-height: $headerHeight;
+}
+
+.game__team {
+  position: relative;
+  width: calc(50% - 70px);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.game__team--home {
+  float: left;
+  text-align: right;
+  padding-left: 20px;
+  border-left: 10px solid orangered;
+}
+
+.game__team--away {
+  float: right;
+  text-align: left;
+  border-right: 10px solid #e6aa15;
+}
+
+.game__timer {
+  position: absolute;
+  left: 50%;
+  margin-left: -40px;
+  width: 80px;
+  font-size: 1.3em;
+  text-align: center;
+  font-weight: bold;
+  background: rgba(0, 0, 0, .2);
+}

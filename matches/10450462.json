@@ -1,0 +1,7436 @@
+{
+  "id": "10450462",
+  "name": "Arsenal FC vs Swansea City AFC",
+  "timestamp": 1456947900000,
+  "home": "Arsenal FC",
+  "away": "Swansea City AFC",
+  "league": "Premier League",
+  "stadium": "Emirates Stadium",
+  "incidents": [
+    {
+      "type": "start 1st half, kickoff:",
+      "clock": true,
+      "timestamp": 1456947905803,
+      "playtime": 0,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456947909791,
+      "playtime": 3988,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456947919914,
+      "playtime": 14112,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456947923336,
+      "playtime": 17535,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456947923336,
+      "playtime": 17535,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456947923392,
+      "playtime": 17590,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456947925258,
+      "playtime": 19455,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456947943764,
+      "playtime": 37962,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456947947532,
+      "playtime": 41731,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456947955357,
+      "playtime": 49555,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456947960644,
+      "playtime": 54842,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456947966801,
+      "playtime": 61000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456947980721,
+      "playtime": 74921,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456947984801,
+      "playtime": 79002,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456947984801,
+      "playtime": 79002,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456947989686,
+      "playtime": 83888,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948015227,
+      "playtime": 109428,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456948019007,
+      "playtime": 113208,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948023673,
+      "playtime": 117874,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948025808,
+      "playtime": 120009,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948039976,
+      "playtime": 134178,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948056365,
+      "playtime": 150566,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948056365,
+      "playtime": 150566,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5
+    },
+    {
+      "type": "shot blocked",
+      "clock": true,
+      "timestamp": 1456948067102,
+      "playtime": 161301,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456948071595,
+      "playtime": 165793,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948074610,
+      "playtime": 168806,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456948075767,
+      "playtime": 169963,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948080858,
+      "playtime": 175054,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948087163,
+      "playtime": 181360,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948094656,
+      "playtime": 188853,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948112331,
+      "playtime": 206527,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948123240,
+      "playtime": 217437,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948125591,
+      "playtime": 219788,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948128729,
+      "playtime": 222927,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948139670,
+      "playtime": 233867,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948143730,
+      "playtime": 237927,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948155679,
+      "playtime": 249876,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948158774,
+      "playtime": 252970,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5555555555555556
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948158774,
+      "playtime": 252970,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948177913,
+      "playtime": 272110,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948180710,
+      "playtime": 274907,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948184390,
+      "playtime": 278587,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948184390,
+      "playtime": 278587,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456948198592,
+      "playtime": 292789,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948214161,
+      "playtime": 308357,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456948218941,
+      "playtime": 313138,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948229959,
+      "playtime": 324157,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948235815,
+      "playtime": 330012,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948242308,
+      "playtime": 336503,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456948250759,
+      "playtime": 344955,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948260076,
+      "playtime": 354271,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948265818,
+      "playtime": 360012,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948269348,
+      "playtime": 363543,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948271884,
+      "playtime": 366080,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948284522,
+      "playtime": 378719,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948291167,
+      "playtime": 385363,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948291167,
+      "playtime": 385363,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456948301775,
+      "playtime": 395971,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456948304211,
+      "playtime": 398405,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948308969,
+      "playtime": 403164,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948321734,
+      "playtime": 415928,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948338764,
+      "playtime": 432959,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948343893,
+      "playtime": 438089,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948343893,
+      "playtime": 438089,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948352458,
+      "playtime": 446654,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948354305,
+      "playtime": 448502,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948367884,
+      "playtime": 462079,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948367884,
+      "playtime": 462079,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948376983,
+      "playtime": 471179,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948380736,
+      "playtime": 474932,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948395395,
+      "playtime": 489590,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948395395,
+      "playtime": 489590,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6875
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456948403101,
+      "playtime": 497294,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948411171,
+      "playtime": 505365,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456948411204,
+      "playtime": 505399,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456948411204,
+      "playtime": 505399,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456948411251,
+      "playtime": 505447,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948440601,
+      "playtime": 534798,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948445634,
+      "playtime": 539832,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456948446719,
+      "playtime": 540918,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948454139,
+      "playtime": 548337,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948461574,
+      "playtime": 555771,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456948462632,
+      "playtime": 556830,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948464344,
+      "playtime": 558541,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948466734,
+      "playtime": 560932,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948475926,
+      "playtime": 570125,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948486099,
+      "playtime": 580297,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948496519,
+      "playtime": 590716,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948500957,
+      "playtime": 595153,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948500957,
+      "playtime": 595153,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "shot woddwork",
+      "clock": true,
+      "timestamp": 1456948511702,
+      "playtime": 605898,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948514127,
+      "playtime": 608322,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948524346,
+      "playtime": 618541,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948542146,
+      "playtime": 636340,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948550781,
+      "playtime": 644974,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948566491,
+      "playtime": 660685,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948572651,
+      "playtime": 666846,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948572651,
+      "playtime": 666846,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948576242,
+      "playtime": 670438,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948593359,
+      "playtime": 687554,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456948602242,
+      "playtime": 696436,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948610121,
+      "playtime": 704314,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456948610155,
+      "playtime": 704349,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456948610155,
+      "playtime": 704349,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456948610197,
+      "playtime": 704389,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948611954,
+      "playtime": 706146,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948613752,
+      "playtime": 707945,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948623665,
+      "playtime": 717857,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948623665,
+      "playtime": 717857,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.75
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948634500,
+      "playtime": 728690,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948638756,
+      "playtime": 732946,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948641655,
+      "playtime": 735844,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948646085,
+      "playtime": 740272,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948648206,
+      "playtime": 742391,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948648206,
+      "playtime": 742391,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7619047619047619
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948663102,
+      "playtime": 757286,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7619047619047619
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456948664992,
+      "playtime": 759175,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7619047619047619
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948667502,
+      "playtime": 761684,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7619047619047619
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948695293,
+      "playtime": 789474,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7619047619047619
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948724176,
+      "playtime": 818357,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7619047619047619
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948732066,
+      "playtime": 826246,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7619047619047619
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948740344,
+      "playtime": 834523,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7619047619047619
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948745692,
+      "playtime": 839872,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7619047619047619
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948745692,
+      "playtime": 839872,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7727272727272727
+    },
+    {
+      "type": "goal",
+      "clock": true,
+      "timestamp": 1456948760357,
+      "playtime": 854536,
+      "team": "home",
+      "weight": 5,
+      "momentum": 0.8148148148148148
+    },
+    {
+      "type": "event details",
+      "clock": true,
+      "timestamp": 1456948773398,
+      "playtime": 867577,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.8148148148148148
+    },
+    {
+      "type": "kickoff",
+      "clock": true,
+      "timestamp": 1456948808688,
+      "playtime": 902868,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.8148148148148148
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948808688,
+      "playtime": 902868,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.8148148148148148
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948825312,
+      "playtime": 919493,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.8148148148148148
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948827649,
+      "playtime": 921829,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.8148148148148148
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948830160,
+      "playtime": 924339,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.8148148148148148
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948830160,
+      "playtime": 924339,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.8214285714285714
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948832238,
+      "playtime": 926417,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.8214285714285714
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948867025,
+      "playtime": 961205,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.8214285714285714
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948869727,
+      "playtime": 963905,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.8214285714285714
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948869727,
+      "playtime": 963905,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.7931034482758621
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456948882394,
+      "playtime": 976573,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.7666666666666667
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456948884848,
+      "playtime": 979028,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456948888038,
+      "playtime": 982219,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948891898,
+      "playtime": 986080,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "shot blocked",
+      "clock": true,
+      "timestamp": 1456948903697,
+      "playtime": 997880,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948926886,
+      "playtime": 1021068,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948947061,
+      "playtime": 1041242,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948951202,
+      "playtime": 1045384,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456948956313,
+      "playtime": 1050494,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456948959439,
+      "playtime": 1053620,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456948968720,
+      "playtime": 1062900,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7419354838709677
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456948968720,
+      "playtime": 1062900,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.75
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456948991097,
+      "playtime": 1085277,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456948992883,
+      "playtime": 1087063,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949001459,
+      "playtime": 1095639,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949001459,
+      "playtime": 1095639,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7575757575757576
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949004070,
+      "playtime": 1098249,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7575757575757576
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949022486,
+      "playtime": 1116665,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7575757575757576
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949039221,
+      "playtime": 1133399,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7575757575757576
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949039221,
+      "playtime": 1133399,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949054584,
+      "playtime": 1148763,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949062857,
+      "playtime": 1157037,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "scout offline",
+      "clock": true,
+      "timestamp": 1456949062931,
+      "playtime": 1157111,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "transmission online",
+      "clock": true,
+      "timestamp": 1456949068770,
+      "playtime": 1162951,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949068770,
+      "playtime": 1162951,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949073601,
+      "playtime": 1167782,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949075937,
+      "playtime": 1170119,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949078843,
+      "playtime": 1173025,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949091055,
+      "playtime": 1185237,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949094998,
+      "playtime": 1189178,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949098365,
+      "playtime": 1192546,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949101560,
+      "playtime": 1195739,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7352941176470589
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949101560,
+      "playtime": 1195739,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7428571428571429
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949119953,
+      "playtime": 1214132,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7428571428571429
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949129592,
+      "playtime": 1223771,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7428571428571429
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949136896,
+      "playtime": 1231074,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7428571428571429
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949145729,
+      "playtime": 1239906,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7428571428571429
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949160932,
+      "playtime": 1255108,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7428571428571429
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949160932,
+      "playtime": 1255108,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456949182756,
+      "playtime": 1276931,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949186747,
+      "playtime": 1280921,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456949186785,
+      "playtime": 1280959,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456949186785,
+      "playtime": 1280959,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456949186829,
+      "playtime": 1281001,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949205025,
+      "playtime": 1299196,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949216042,
+      "playtime": 1310211,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949218805,
+      "playtime": 1312973,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456949227791,
+      "playtime": 1321957,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949241019,
+      "playtime": 1335186,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949253939,
+      "playtime": 1348105,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949259673,
+      "playtime": 1353838,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456949265444,
+      "playtime": 1359609,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456949268765,
+      "playtime": 1362931,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456949268765,
+      "playtime": 1362931,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949268815,
+      "playtime": 1362979,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7222222222222222
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456949268815,
+      "playtime": 1362979,
+      "team": "home",
+      "weight": 2,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456949268815,
+      "playtime": 1362979,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949277888,
+      "playtime": 1372050,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949292579,
+      "playtime": 1386742,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949296588,
+      "playtime": 1390750,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949335359,
+      "playtime": 1429522,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949347772,
+      "playtime": 1441934,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7368421052631579
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949347772,
+      "playtime": 1441934,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7435897435897436
+    },
+    {
+      "type": "shot blocked",
+      "clock": true,
+      "timestamp": 1456949360804,
+      "playtime": 1454965,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7435897435897436
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456949366922,
+      "playtime": 1461084,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.75
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949369447,
+      "playtime": 1463608,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456949385234,
+      "playtime": 1479395,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949394006,
+      "playtime": 1488168,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949396686,
+      "playtime": 1490847,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949403505,
+      "playtime": 1497665,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949406751,
+      "playtime": 1500909,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949413875,
+      "playtime": 1508034,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949420302,
+      "playtime": 1514459,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949423118,
+      "playtime": 1517274,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.75
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949423118,
+      "playtime": 1517274,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.7317073170731707
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456949439495,
+      "playtime": 1533652,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949442079,
+      "playtime": 1536234,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456949443829,
+      "playtime": 1537983,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949460610,
+      "playtime": 1554763,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949475482,
+      "playtime": 1569635,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949483625,
+      "playtime": 1577777,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7142857142857143
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949483625,
+      "playtime": 1577777,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7209302325581395
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949489098,
+      "playtime": 1583248,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7209302325581395
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949497623,
+      "playtime": 1591774,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7209302325581395
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949499741,
+      "playtime": 1593892,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7209302325581395
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949499741,
+      "playtime": 1593892,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456949513781,
+      "playtime": 1607933,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949518202,
+      "playtime": 1612355,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456949518236,
+      "playtime": 1612388,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456949518236,
+      "playtime": 1612388,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456949518278,
+      "playtime": 1612429,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949536298,
+      "playtime": 1630450,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949544970,
+      "playtime": 1639123,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456949546042,
+      "playtime": 1640195,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949549297,
+      "playtime": 1643449,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949552816,
+      "playtime": 1646968,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7045454545454546
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949552816,
+      "playtime": 1646968,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6888888888888889
+    },
+    {
+      "type": "shot blocked",
+      "clock": true,
+      "timestamp": 1456949558501,
+      "playtime": 1652652,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6888888888888889
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949560679,
+      "playtime": 1654831,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6888888888888889
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949562592,
+      "playtime": 1656743,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6888888888888889
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949580168,
+      "playtime": 1674318,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6888888888888889
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949580168,
+      "playtime": 1674318,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456949585741,
+      "playtime": 1679892,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7021276595744681
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949587586,
+      "playtime": 1681738,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7021276595744681
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949603765,
+      "playtime": 1697916,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7021276595744681
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949607996,
+      "playtime": 1702145,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7021276595744681
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949607996,
+      "playtime": 1702145,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6875
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949615342,
+      "playtime": 1709490,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949624385,
+      "playtime": 1718532,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949628438,
+      "playtime": 1722583,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949628438,
+      "playtime": 1722583,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6938775510204082
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456949635675,
+      "playtime": 1729821,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6938775510204082
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949649467,
+      "playtime": 1743611,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6938775510204082
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949668714,
+      "playtime": 1762858,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6938775510204082
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949678707,
+      "playtime": 1772852,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6938775510204082
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949683055,
+      "playtime": 1777200,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6938775510204082
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949683055,
+      "playtime": 1777200,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456949688673,
+      "playtime": 1782816,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949691318,
+      "playtime": 1785461,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456949706899,
+      "playtime": 1801043,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456949713921,
+      "playtime": 1808064,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456949713921,
+      "playtime": 1808064,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456949714140,
+      "playtime": 1808284,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949715904,
+      "playtime": 1810048,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949734064,
+      "playtime": 1828209,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949738666,
+      "playtime": 1832812,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949747870,
+      "playtime": 1842015,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456949749166,
+      "playtime": 1843311,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456949764595,
+      "playtime": 1858739,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949766064,
+      "playtime": 1860206,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949770319,
+      "playtime": 1864462,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949799093,
+      "playtime": 1893235,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949800420,
+      "playtime": 1894562,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949800420,
+      "playtime": 1894562,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "goal",
+      "clock": true,
+      "timestamp": 1456949802883,
+      "playtime": 1897025,
+      "team": "away",
+      "weight": 5,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "event details",
+      "clock": true,
+      "timestamp": 1456949831276,
+      "playtime": 1925418,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "kickoff",
+      "clock": true,
+      "timestamp": 1456949852946,
+      "playtime": 1947086,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949852946,
+      "playtime": 1947086,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "cancel",
+      "clock": true,
+      "timestamp": 1456949856210,
+      "playtime": 1950350,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "event details",
+      "clock": true,
+      "timestamp": 1456949859853,
+      "playtime": 1953993,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "kickoff",
+      "clock": true,
+      "timestamp": 1456949859914,
+      "playtime": 1954054,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949859914,
+      "playtime": 1954054,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949875133,
+      "playtime": 1969274,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949879055,
+      "playtime": 1973196,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949887817,
+      "playtime": 1981956,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "event details",
+      "clock": true,
+      "timestamp": 1456949894865,
+      "playtime": 1989004,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949901699,
+      "playtime": 1995835,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949920743,
+      "playtime": 2014878,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949923320,
+      "playtime": 2017455,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949943261,
+      "playtime": 2037396,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949947478,
+      "playtime": 2041614,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949947478,
+      "playtime": 2041614,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6379310344827587
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949953958,
+      "playtime": 2048095,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6379310344827587
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949958990,
+      "playtime": 2053128,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6379310344827587
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456949962779,
+      "playtime": 2056917,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6379310344827587
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456949962779,
+      "playtime": 2056917,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6440677966101694
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456949993999,
+      "playtime": 2088136,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6440677966101694
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456949997150,
+      "playtime": 2091286,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6440677966101694
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950000219,
+      "playtime": 2094355,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6440677966101694
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950006626,
+      "playtime": 2100761,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6440677966101694
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456950014177,
+      "playtime": 2108311,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6440677966101694
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456950014177,
+      "playtime": 2108311,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.65
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950033428,
+      "playtime": 2127562,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.65
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950036443,
+      "playtime": 2130578,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.65
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950062629,
+      "playtime": 2156764,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.65
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950066268,
+      "playtime": 2160402,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.65
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950068303,
+      "playtime": 2162438,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.65
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950094830,
+      "playtime": 2188965,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.65
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950106364,
+      "playtime": 2200499,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.65
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456950109629,
+      "playtime": 2203765,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.65
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456950109629,
+      "playtime": 2203765,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950113984,
+      "playtime": 2208119,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456950115862,
+      "playtime": 2209998,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950139705,
+      "playtime": 2233840,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950147701,
+      "playtime": 2241834,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950150598,
+      "playtime": 2244732,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950154247,
+      "playtime": 2248382,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950158044,
+      "playtime": 2252179,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950159713,
+      "playtime": 2253849,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456950162498,
+      "playtime": 2256634,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6557377049180327
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456950162498,
+      "playtime": 2256634,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6612903225806451
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950191002,
+      "playtime": 2285139,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6612903225806451
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456950192860,
+      "playtime": 2286996,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6612903225806451
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950214272,
+      "playtime": 2308408,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6612903225806451
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950219196,
+      "playtime": 2313331,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6612903225806451
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950237751,
+      "playtime": 2331885,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6612903225806451
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456950240713,
+      "playtime": 2334848,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6612903225806451
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950244863,
+      "playtime": 2338998,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6612903225806451
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456950247852,
+      "playtime": 2341987,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6612903225806451
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456950247852,
+      "playtime": 2341987,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456950250171,
+      "playtime": 2344305,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456950262809,
+      "playtime": 2356944,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.6774193548387096
+    },
+    {
+      "type": "event details",
+      "clock": true,
+      "timestamp": 1456950269257,
+      "playtime": 2363391,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6774193548387096
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456950273362,
+      "playtime": 2367496,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6774193548387096
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456950273362,
+      "playtime": 2367496,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6774193548387096
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456950273362,
+      "playtime": 2367496,
+      "team": "home",
+      "weight": 2,
+      "momentum": 0.6875
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456950273415,
+      "playtime": 2367548,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950300394,
+      "playtime": 2394524,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6875
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456950308718,
+      "playtime": 2402847,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456950311791,
+      "playtime": 2405921,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950333734,
+      "playtime": 2427865,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "shot woddwork",
+      "clock": true,
+      "timestamp": 1456950349793,
+      "playtime": 2443925,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.696969696969697
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456950360756,
+      "playtime": 2454889,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456950364987,
+      "playtime": 2459119,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950368771,
+      "playtime": 2462903,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950377867,
+      "playtime": 2472000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950395452,
+      "playtime": 2489585,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950398705,
+      "playtime": 2492837,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950416130,
+      "playtime": 2510260,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950423465,
+      "playtime": 2517595,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950437047,
+      "playtime": 2531175,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950452412,
+      "playtime": 2546540,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950457492,
+      "playtime": 2551619,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456950462648,
+      "playtime": 2556774,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7014925373134329
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456950462648,
+      "playtime": 2556774,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456950475724,
+      "playtime": 2569851,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950480438,
+      "playtime": 2574566,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950493478,
+      "playtime": 2587607,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950495196,
+      "playtime": 2589326,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456950496006,
+      "playtime": 2590135,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950512909,
+      "playtime": 2607037,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456950523525,
+      "playtime": 2617652,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.7058823529411765
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456950523525,
+      "playtime": 2617652,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950531085,
+      "playtime": 2625210,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456950538700,
+      "playtime": 2632823,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456950540059,
+      "playtime": 2634182,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950551767,
+      "playtime": 2645889,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456950557115,
+      "playtime": 2651237,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456950558207,
+      "playtime": 2652327,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950563723,
+      "playtime": 2657843,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456950568764,
+      "playtime": 2662884,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6956521739130435
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456950568764,
+      "playtime": 2662884,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6857142857142857
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456950572543,
+      "playtime": 2666664,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6857142857142857
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456950576719,
+      "playtime": 2670840,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6857142857142857
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456950576719,
+      "playtime": 2670840,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6857142857142857
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456950576719,
+      "playtime": 2670840,
+      "team": "away",
+      "weight": 2,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456950576773,
+      "playtime": 2670893,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950606878,
+      "playtime": 2700998,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456950615998,
+      "playtime": 2710119,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950629988,
+      "playtime": 2724110,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "stoppage time",
+      "clock": true,
+      "timestamp": 1456950639744,
+      "playtime": 2733867,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456950642972,
+      "playtime": 2737095,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456950646218,
+      "playtime": 2740340,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456950650287,
+      "playtime": 2744410,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "stop 1st half",
+      "clock": false,
+      "timestamp": 1456950673338,
+      "playtime": 2767461,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "score of last period confirmed",
+      "clock": false,
+      "timestamp": 1456950683267,
+      "playtime": 2700000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "game conditions changed",
+      "clock": false,
+      "timestamp": 1456950734135,
+      "playtime": 2700000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "players are coming out",
+      "clock": false,
+      "timestamp": 1456951446973,
+      "playtime": 2700000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "substitution",
+      "clock": false,
+      "timestamp": 1456951576759,
+      "playtime": 2700000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "game about to start",
+      "clock": false,
+      "timestamp": 1456951582904,
+      "playtime": 2700000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "start 2nd half, kickoff:",
+      "clock": true,
+      "timestamp": 1456951615049,
+      "playtime": 2700000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456951619537,
+      "playtime": 2704487,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456951621668,
+      "playtime": 2706618,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456951634835,
+      "playtime": 2719786,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6575342465753424
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456951634835,
+      "playtime": 2719786,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6486486486486487
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456951648368,
+      "playtime": 2733316,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.64
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456951651828,
+      "playtime": 2736777,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456951660889,
+      "playtime": 2745839,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456951674525,
+      "playtime": 2759474,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456951687931,
+      "playtime": 2772878,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456951693306,
+      "playtime": 2778254,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456951701452,
+      "playtime": 2786399,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456951706658,
+      "playtime": 2791604,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456951712100,
+      "playtime": 2797047,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456951715835,
+      "playtime": 2800782,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456951715835,
+      "playtime": 2800782,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456951715923,
+      "playtime": 2800868,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456951724984,
+      "playtime": 2809929,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456951744793,
+      "playtime": 2829739,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456951748530,
+      "playtime": 2833476,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.64
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456951748530,
+      "playtime": 2833476,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6447368421052632
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456951781063,
+      "playtime": 2866009,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6447368421052632
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456951783269,
+      "playtime": 2868215,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6447368421052632
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456951790555,
+      "playtime": 2875500,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6447368421052632
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456951790555,
+      "playtime": 2875500,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456951795579,
+      "playtime": 2880522,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456951804533,
+      "playtime": 2889475,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456951813760,
+      "playtime": 2898702,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456951813760,
+      "playtime": 2898702,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6410256410256411
+    },
+    {
+      "type": "shot blocked",
+      "clock": true,
+      "timestamp": 1456951838733,
+      "playtime": 2923675,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6410256410256411
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456951843390,
+      "playtime": 2928332,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6455696202531646
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456951845069,
+      "playtime": 2930011,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6455696202531646
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456951854820,
+      "playtime": 2939761,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6455696202531646
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456951883851,
+      "playtime": 2968792,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6455696202531646
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456951883851,
+      "playtime": 2968792,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6375
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456951903646,
+      "playtime": 2988588,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456951907719,
+      "playtime": 2992660,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456951907756,
+      "playtime": 2992696,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456951907756,
+      "playtime": 2992696,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456951907805,
+      "playtime": 2992744,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456951912856,
+      "playtime": 2997793,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456951920799,
+      "playtime": 3005735,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456951925427,
+      "playtime": 3010362,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456951927207,
+      "playtime": 3012142,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456951929292,
+      "playtime": 3014227,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6375
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456951929292,
+      "playtime": 3014227,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6296296296296297
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456951946173,
+      "playtime": 3031107,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6296296296296297
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456951949854,
+      "playtime": 3034788,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6296296296296297
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456951949854,
+      "playtime": 3034788,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6296296296296297
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456951949854,
+      "playtime": 3034788,
+      "team": "away",
+      "weight": 2,
+      "momentum": 0.6144578313253012
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456951949909,
+      "playtime": 3034844,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6144578313253012
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456951963078,
+      "playtime": 3048012,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6144578313253012
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456951988929,
+      "playtime": 3073864,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6144578313253012
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456951998815,
+      "playtime": 3083749,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6144578313253012
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952014125,
+      "playtime": 3099057,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6144578313253012
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952016916,
+      "playtime": 3101846,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6144578313253012
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952019837,
+      "playtime": 3104766,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6144578313253012
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952019837,
+      "playtime": 3104766,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "shot blocked",
+      "clock": true,
+      "timestamp": 1456952029073,
+      "playtime": 3114002,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952031394,
+      "playtime": 3116323,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456952032603,
+      "playtime": 3117533,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952036284,
+      "playtime": 3121214,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952056033,
+      "playtime": 3140964,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952061364,
+      "playtime": 3146295,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952064487,
+      "playtime": 3149419,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952066718,
+      "playtime": 3151650,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952066718,
+      "playtime": 3151650,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6235294117647059
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952140945,
+      "playtime": 3225877,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6235294117647059
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952142718,
+      "playtime": 3227648,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6235294117647059
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952146284,
+      "playtime": 3231215,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6235294117647059
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952151953,
+      "playtime": 3236885,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6235294117647059
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952151953,
+      "playtime": 3236885,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6162790697674418
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456952161783,
+      "playtime": 3246715,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952164311,
+      "playtime": 3249243,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456952165525,
+      "playtime": 3250458,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952176119,
+      "playtime": 3261050,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952181841,
+      "playtime": 3266771,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952187701,
+      "playtime": 3272632,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952192425,
+      "playtime": 3277357,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952194182,
+      "playtime": 3279112,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952207070,
+      "playtime": 3291999,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456952208557,
+      "playtime": 3293486,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952224375,
+      "playtime": 3309304,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952227471,
+      "playtime": 3312398,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952240708,
+      "playtime": 3325636,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456952241894,
+      "playtime": 3326823,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952244386,
+      "playtime": 3329316,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952253350,
+      "playtime": 3338279,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952257639,
+      "playtime": 3342568,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952261849,
+      "playtime": 3346777,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952265775,
+      "playtime": 3350702,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6091954022988506
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952265775,
+      "playtime": 3350702,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6136363636363636
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952270181,
+      "playtime": 3355106,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6136363636363636
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952273614,
+      "playtime": 3358540,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6136363636363636
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952276485,
+      "playtime": 3361412,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6136363636363636
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952276485,
+      "playtime": 3361412,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6179775280898876
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456952284717,
+      "playtime": 3369643,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6222222222222222
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952297130,
+      "playtime": 3382055,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6222222222222222
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456952310876,
+      "playtime": 3395801,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6263736263736264
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952312934,
+      "playtime": 3397858,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6263736263736264
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456952314752,
+      "playtime": 3399677,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6263736263736264
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952316196,
+      "playtime": 3401120,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6263736263736264
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952319352,
+      "playtime": 3404275,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6263736263736264
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952354275,
+      "playtime": 3439197,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6263736263736264
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952368843,
+      "playtime": 3453763,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6263736263736264
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952371199,
+      "playtime": 3456119,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6263736263736264
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952371199,
+      "playtime": 3456119,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6195652173913043
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952374114,
+      "playtime": 3459033,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6195652173913043
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952386625,
+      "playtime": 3471545,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6195652173913043
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456952391649,
+      "playtime": 3476567,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6195652173913043
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456952397084,
+      "playtime": 3482001,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6195652173913043
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456952397084,
+      "playtime": 3482001,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6195652173913043
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952397135,
+      "playtime": 3482053,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6195652173913043
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456952397135,
+      "playtime": 3482053,
+      "team": "home",
+      "weight": 2,
+      "momentum": 0.6276595744680851
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456952397135,
+      "playtime": 3482053,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6276595744680851
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952412155,
+      "playtime": 3497071,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6276595744680851
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456952418648,
+      "playtime": 3503562,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952420539,
+      "playtime": 3505454,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456952433777,
+      "playtime": 3518691,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456952436568,
+      "playtime": 3521482,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456952436568,
+      "playtime": 3521482,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456952436709,
+      "playtime": 3521624,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952455691,
+      "playtime": 3540605,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952462438,
+      "playtime": 3547353,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456952468199,
+      "playtime": 3553115,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952477115,
+      "playtime": 3562030,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952486387,
+      "playtime": 3571300,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952489437,
+      "playtime": 3574350,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952491050,
+      "playtime": 3575963,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952495864,
+      "playtime": 3580777,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952495864,
+      "playtime": 3580777,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.625
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952508212,
+      "playtime": 3593126,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.625
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952516542,
+      "playtime": 3601455,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.625
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952542658,
+      "playtime": 3627570,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.625
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952542658,
+      "playtime": 3627570,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6185567010309279
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952554163,
+      "playtime": 3639076,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6185567010309279
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952560722,
+      "playtime": 3645635,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6185567010309279
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952563685,
+      "playtime": 3648597,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6185567010309279
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952563685,
+      "playtime": 3648597,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952587213,
+      "playtime": 3672123,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "game suspended - player injured",
+      "clock": true,
+      "timestamp": 1456952607226,
+      "playtime": 3692136,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "drop Ball",
+      "clock": true,
+      "timestamp": 1456952688071,
+      "playtime": 3772980,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952691327,
+      "playtime": 3776237,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952717689,
+      "playtime": 3802599,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456952719271,
+      "playtime": 3804180,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456952743796,
+      "playtime": 3828706,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952757618,
+      "playtime": 3842527,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952762670,
+      "playtime": 3847580,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952765014,
+      "playtime": 3849924,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6122448979591837
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952765014,
+      "playtime": 3849924,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6060606060606061
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456952776803,
+      "playtime": 3861714,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952782218,
+      "playtime": 3867129,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456952783893,
+      "playtime": 3868805,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952785653,
+      "playtime": 3870565,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952797060,
+      "playtime": 3881972,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952801095,
+      "playtime": 3886007,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952807003,
+      "playtime": 3891912,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952807003,
+      "playtime": 3891912,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6039603960396039
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952810852,
+      "playtime": 3895761,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6039603960396039
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952813127,
+      "playtime": 3898035,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6039603960396039
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952831263,
+      "playtime": 3916171,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6039603960396039
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952831263,
+      "playtime": 3916171,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456952840610,
+      "playtime": 3925518,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952849552,
+      "playtime": 3934460,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456952849596,
+      "playtime": 3934503,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456952849596,
+      "playtime": 3934503,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456952849642,
+      "playtime": 3934548,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952866192,
+      "playtime": 3951097,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952870205,
+      "playtime": 3955109,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952881645,
+      "playtime": 3966547,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952883186,
+      "playtime": 3968086,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952887176,
+      "playtime": 3972075,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952896342,
+      "playtime": 3981240,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952898591,
+      "playtime": 3983488,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456952902155,
+      "playtime": 3987053,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6078431372549019
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456952902155,
+      "playtime": 3987053,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6116504854368932
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456952907692,
+      "playtime": 3992588,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6116504854368932
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456952912028,
+      "playtime": 3996923,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6116504854368932
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456952912028,
+      "playtime": 3996923,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6116504854368932
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456952912028,
+      "playtime": 3996923,
+      "team": "home",
+      "weight": 2,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456952912087,
+      "playtime": 3996983,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456952975161,
+      "playtime": 4060057,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "shot woddwork",
+      "clock": true,
+      "timestamp": 1456952980067,
+      "playtime": 4064964,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6226415094339622
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952987388,
+      "playtime": 4072285,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6226415094339622
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456952990962,
+      "playtime": 4075860,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6226415094339622
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456952995809,
+      "playtime": 4080706,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6226415094339622
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953000666,
+      "playtime": 4085562,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6226415094339622
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953006394,
+      "playtime": 4091289,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6226415094339622
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953009279,
+      "playtime": 4094175,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6226415094339622
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953009279,
+      "playtime": 4094175,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.616822429906542
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953014128,
+      "playtime": 4099023,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.616822429906542
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953024126,
+      "playtime": 4109022,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.616822429906542
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953028600,
+      "playtime": 4113495,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.616822429906542
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953028600,
+      "playtime": 4113495,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6203703703703703
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953036177,
+      "playtime": 4121072,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6203703703703703
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953038353,
+      "playtime": 4123248,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6203703703703703
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953047076,
+      "playtime": 4131971,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6203703703703703
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953047076,
+      "playtime": 4131971,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6146788990825688
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953057479,
+      "playtime": 4142373,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6146788990825688
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953063831,
+      "playtime": 4148724,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6146788990825688
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953073781,
+      "playtime": 4158675,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6146788990825688
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953073781,
+      "playtime": 4158675,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456953083670,
+      "playtime": 4168565,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953092618,
+      "playtime": 4177513,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456953092654,
+      "playtime": 4177550,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456953092654,
+      "playtime": 4177550,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456953092695,
+      "playtime": 4177592,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456953113143,
+      "playtime": 4198038,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953126660,
+      "playtime": 4211555,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953129250,
+      "playtime": 4214145,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953134369,
+      "playtime": 4219264,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953139359,
+      "playtime": 4224253,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953142694,
+      "playtime": 4227587,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953145668,
+      "playtime": 4230562,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953160640,
+      "playtime": 4245535,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6090909090909091
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953160640,
+      "playtime": 4245535,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6126126126126126
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953171362,
+      "playtime": 4256257,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6126126126126126
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953178047,
+      "playtime": 4262941,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6126126126126126
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953178047,
+      "playtime": 4262941,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6126126126126126
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953178047,
+      "playtime": 4262941,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6160714285714286
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456953181379,
+      "playtime": 4266273,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6160714285714286
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953191090,
+      "playtime": 4275983,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6160714285714286
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953205634,
+      "playtime": 4290528,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6160714285714286
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953224579,
+      "playtime": 4309474,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6160714285714286
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953240390,
+      "playtime": 4325284,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6160714285714286
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953247973,
+      "playtime": 4332867,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6160714285714286
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953247973,
+      "playtime": 4332867,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6194690265486725
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953278884,
+      "playtime": 4363778,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6194690265486725
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953282421,
+      "playtime": 4367316,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6194690265486725
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953288629,
+      "playtime": 4373525,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6194690265486725
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953288629,
+      "playtime": 4373525,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6140350877192983
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456953294448,
+      "playtime": 4379343,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6140350877192983
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456953298764,
+      "playtime": 4383660,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6140350877192983
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456953298764,
+      "playtime": 4383660,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6140350877192983
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456953298764,
+      "playtime": 4383660,
+      "team": "away",
+      "weight": 2,
+      "momentum": 0.603448275862069
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456953298822,
+      "playtime": 4383719,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.603448275862069
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953345147,
+      "playtime": 4430043,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.603448275862069
+    },
+    {
+      "type": "goal",
+      "clock": true,
+      "timestamp": 1456953349324,
+      "playtime": 4434220,
+      "team": "away",
+      "weight": 5,
+      "momentum": 0.5785123966942148
+    },
+    {
+      "type": "event details",
+      "clock": true,
+      "timestamp": 1456953375676,
+      "playtime": 4460573,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5785123966942148
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456953403728,
+      "playtime": 4488623,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5785123966942148
+    },
+    {
+      "type": "kickoff",
+      "clock": true,
+      "timestamp": 1456953421093,
+      "playtime": 4505989,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5785123966942148
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953421093,
+      "playtime": 4505989,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5785123966942148
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953439845,
+      "playtime": 4524742,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5785123966942148
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953446082,
+      "playtime": 4530977,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5785123966942148
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953446082,
+      "playtime": 4530977,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5819672131147541
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456953452760,
+      "playtime": 4537655,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5853658536585366
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456953456410,
+      "playtime": 4541305,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5853658536585366
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953461913,
+      "playtime": 4546808,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5853658536585366
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456953469038,
+      "playtime": 4553933,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953471433,
+      "playtime": 4556329,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953484079,
+      "playtime": 4568975,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456953485253,
+      "playtime": 4570148,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953487415,
+      "playtime": 4572310,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953494133,
+      "playtime": 4579026,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953500988,
+      "playtime": 4585881,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953505911,
+      "playtime": 4590805,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953509365,
+      "playtime": 4594260,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953519732,
+      "playtime": 4604625,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456953525812,
+      "playtime": 4610704,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456953528634,
+      "playtime": 4613525,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456953528634,
+      "playtime": 4613525,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953528685,
+      "playtime": 4613577,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5887096774193549
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456953528685,
+      "playtime": 4613577,
+      "team": "home",
+      "weight": 2,
+      "momentum": 0.5952380952380952
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456953528685,
+      "playtime": 4613577,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5952380952380952
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456953536499,
+      "playtime": 4621389,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.6
+    },
+    {
+      "type": "event details",
+      "clock": true,
+      "timestamp": 1456953547950,
+      "playtime": 4632839,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953549411,
+      "playtime": 4634300,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456953557164,
+      "playtime": 4642054,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953565219,
+      "playtime": 4650110,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456953565247,
+      "playtime": 4650137,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456953565247,
+      "playtime": 4650137,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456953565281,
+      "playtime": 4650171,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953587272,
+      "playtime": 4672163,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "event details",
+      "clock": true,
+      "timestamp": 1456953591083,
+      "playtime": 4675973,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953591623,
+      "playtime": 4676514,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953593407,
+      "playtime": 4678298,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953612973,
+      "playtime": 4697864,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953619113,
+      "playtime": 4704004,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953628164,
+      "playtime": 4713055,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456953630001,
+      "playtime": 4714893,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953635889,
+      "playtime": 4720782,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953638318,
+      "playtime": 4723210,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953649269,
+      "playtime": 4734162,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953656799,
+      "playtime": 4741691,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953659816,
+      "playtime": 4744707,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953661952,
+      "playtime": 4746842,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953666816,
+      "playtime": 4751705,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953672086,
+      "playtime": 4756974,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953674310,
+      "playtime": 4759197,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953674310,
+      "playtime": 4759197,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6031746031746031
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456953677991,
+      "playtime": 4762878,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6031746031746031
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953680113,
+      "playtime": 4765001,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6031746031746031
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456953702640,
+      "playtime": 4787528,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6062992125984252
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953705429,
+      "playtime": 4790317,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6062992125984252
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456953706896,
+      "playtime": 4791783,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6062992125984252
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953730764,
+      "playtime": 4815650,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6062992125984252
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953737422,
+      "playtime": 4822309,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6062992125984252
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953740180,
+      "playtime": 4825066,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6062992125984252
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953745179,
+      "playtime": 4830065,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6062992125984252
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953748395,
+      "playtime": 4833280,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6062992125984252
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953748395,
+      "playtime": 4833280,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6015625
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456953750910,
+      "playtime": 4835793,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6015625
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953770627,
+      "playtime": 4855510,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6015625
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456953779856,
+      "playtime": 4864739,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6015625
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456953782773,
+      "playtime": 4867655,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6015625
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456953782773,
+      "playtime": 4867655,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6015625
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456953782773,
+      "playtime": 4867655,
+      "team": "away",
+      "weight": 2,
+      "momentum": 0.5923076923076923
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456953782820,
+      "playtime": 4867702,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5923076923076923
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953793098,
+      "playtime": 4877980,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5923076923076923
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953794632,
+      "playtime": 4879515,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5923076923076923
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953800148,
+      "playtime": 4885030,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5923076923076923
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456953808768,
+      "playtime": 4893651,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5923076923076923
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953829322,
+      "playtime": 4914206,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5923076923076923
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953830965,
+      "playtime": 4915848,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5923076923076923
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953830965,
+      "playtime": 4915848,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953833783,
+      "playtime": 4918664,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456953835536,
+      "playtime": 4920417,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953839360,
+      "playtime": 4924240,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953846065,
+      "playtime": 4930945,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953850748,
+      "playtime": 4935626,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953854259,
+      "playtime": 4939138,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953857621,
+      "playtime": 4942499,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953861453,
+      "playtime": 4946332,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953865105,
+      "playtime": 4949984,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5877862595419847
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953865105,
+      "playtime": 4949984,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953869100,
+      "playtime": 4953977,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456953875972,
+      "playtime": 4960849,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953883475,
+      "playtime": 4968351,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953888605,
+      "playtime": 4973479,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953895981,
+      "playtime": 4980853,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456953898946,
+      "playtime": 4983819,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456953902627,
+      "playtime": 4987499,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456953902627,
+      "playtime": 4987499,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953902674,
+      "playtime": 4987546,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5909090909090909
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456953902674,
+      "playtime": 4987546,
+      "team": "away",
+      "weight": 2,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456953902674,
+      "playtime": 4987546,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953920799,
+      "playtime": 5005672,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456953934407,
+      "playtime": 5019279,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953937641,
+      "playtime": 5022513,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953944620,
+      "playtime": 5029493,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953947865,
+      "playtime": 5032738,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456953957680,
+      "playtime": 5042551,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456953959205,
+      "playtime": 5044076,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456953962837,
+      "playtime": 5047706,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456953972139,
+      "playtime": 5057008,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456953985497,
+      "playtime": 5070365,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.582089552238806
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456953985497,
+      "playtime": 5070365,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5851851851851851
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954013207,
+      "playtime": 5098075,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5851851851851851
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954020459,
+      "playtime": 5105327,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5851851851851851
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456954042029,
+      "playtime": 5126896,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5851851851851851
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456954042029,
+      "playtime": 5126896,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5882352941176471
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456954046946,
+      "playtime": 5131812,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5882352941176471
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954060708,
+      "playtime": 5145573,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5882352941176471
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456954082552,
+      "playtime": 5167419,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5912408759124088
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456954085024,
+      "playtime": 5169890,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5942028985507246
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456954088190,
+      "playtime": 5173057,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5942028985507246
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954098190,
+      "playtime": 5183057,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5942028985507246
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456954127376,
+      "playtime": 5212243,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5942028985507246
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954136272,
+      "playtime": 5221138,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5942028985507246
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456954167199,
+      "playtime": 5252062,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5971223021582733
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456954170597,
+      "playtime": 5255459,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5971223021582733
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954176768,
+      "playtime": 5261630,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5971223021582733
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456954183631,
+      "playtime": 5268494,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954185385,
+      "playtime": 5270249,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954194436,
+      "playtime": 5279298,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954197838,
+      "playtime": 5282699,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954211865,
+      "playtime": 5296727,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954215720,
+      "playtime": 5300580,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954233011,
+      "playtime": 5317871,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456954234945,
+      "playtime": 5319806,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456954234945,
+      "playtime": 5319806,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456954237355,
+      "playtime": 5322214,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954245763,
+      "playtime": 5330620,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456954245804,
+      "playtime": 5330661,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456954245804,
+      "playtime": 5330661,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456954245851,
+      "playtime": 5330709,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456954265140,
+      "playtime": 5349999,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954269188,
+      "playtime": 5354047,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954272915,
+      "playtime": 5357775,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456954275074,
+      "playtime": 5359932,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5957446808510638
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456954275074,
+      "playtime": 5359932,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456954296855,
+      "playtime": 5381714,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954299842,
+      "playtime": 5384699,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456954299881,
+      "playtime": 5384737,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456954299881,
+      "playtime": 5384737,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456954299933,
+      "playtime": 5384790,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "stoppage time",
+      "clock": true,
+      "timestamp": 1456954322542,
+      "playtime": 5407399,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954326728,
+      "playtime": 5411584,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954327969,
+      "playtime": 5412826,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954335662,
+      "playtime": 5420518,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954345254,
+      "playtime": 5430109,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456954348268,
+      "playtime": 5433124,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456954351580,
+      "playtime": 5436437,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5985915492957746
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456954351580,
+      "playtime": 5436437,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5944055944055944
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954379708,
+      "playtime": 5464565,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5944055944055944
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954386249,
+      "playtime": 5471107,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5944055944055944
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456954388686,
+      "playtime": 5473543,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5944055944055944
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954402183,
+      "playtime": 5487040,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5944055944055944
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954405633,
+      "playtime": 5490490,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5944055944055944
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456954416450,
+      "playtime": 5501307,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5944055944055944
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954420821,
+      "playtime": 5505678,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5944055944055944
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456954446249,
+      "playtime": 5531107,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5944055944055944
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456954446249,
+      "playtime": 5531107,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5972222222222222
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456954454939,
+      "playtime": 5539796,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954457947,
+      "playtime": 5542803,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456954459885,
+      "playtime": 5544741,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954475683,
+      "playtime": 5560537,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954477809,
+      "playtime": 5562663,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456954486978,
+      "playtime": 5571831,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456954486978,
+      "playtime": 5571831,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5958904109589042
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954498597,
+      "playtime": 5583451,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5958904109589042
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954505220,
+      "playtime": 5590074,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5958904109589042
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954515681,
+      "playtime": 5600534,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5958904109589042
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954518404,
+      "playtime": 5603258,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5958904109589042
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456954521711,
+      "playtime": 5606566,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5958904109589042
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456954521711,
+      "playtime": 5606566,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5986394557823129
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954528741,
+      "playtime": 5613597,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5986394557823129
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954530077,
+      "playtime": 5614934,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5986394557823129
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954535968,
+      "playtime": 5620825,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5986394557823129
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954538927,
+      "playtime": 5623785,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5986394557823129
+    },
+    {
+      "type": "possible free kick",
+      "clock": true,
+      "timestamp": 1456954548126,
+      "playtime": 5632984,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5986394557823129
+    },
+    {
+      "type": "foul",
+      "clock": true,
+      "timestamp": 1456954561803,
+      "playtime": 5646660,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5986394557823129
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456954561803,
+      "playtime": 5646660,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5986394557823129
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456954561847,
+      "playtime": 5646704,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5986394557823129
+    },
+    {
+      "type": "dangerous free kick",
+      "clock": true,
+      "timestamp": 1456954561847,
+      "playtime": 5646704,
+      "team": "home",
+      "weight": 2,
+      "momentum": 0.6040268456375839
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456954561847,
+      "playtime": 5646704,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6040268456375839
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954579636,
+      "playtime": 5664493,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6040268456375839
+    },
+    {
+      "type": "throw in",
+      "clock": true,
+      "timestamp": 1456954586930,
+      "playtime": 5671786,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6040268456375839
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954594611,
+      "playtime": 5679467,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6040268456375839
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456954604904,
+      "playtime": 5689762,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6066666666666667
+    },
+    {
+      "type": "zone information",
+      "clock": true,
+      "timestamp": 1456954608329,
+      "playtime": 5693188,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6066666666666667
+    },
+    {
+      "type": "restart",
+      "clock": true,
+      "timestamp": 1456954621004,
+      "playtime": 5705862,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6066666666666667
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954631724,
+      "playtime": 5716583,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6066666666666667
+    },
+    {
+      "type": "attack",
+      "clock": true,
+      "timestamp": 1456954635003,
+      "playtime": 5719863,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6066666666666667
+    },
+    {
+      "type": "danger",
+      "clock": true,
+      "timestamp": 1456954635003,
+      "playtime": 5719863,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6066666666666667
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456954635003,
+      "playtime": 5719863,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6026490066225165
+    },
+    {
+      "type": "safe",
+      "clock": true,
+      "timestamp": 1456954638704,
+      "playtime": 5723564,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6026490066225165
+    },
+    {
+      "type": "stop 2nd half",
+      "clock": false,
+      "timestamp": 1456954644799,
+      "playtime": 5729660,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6026490066225165
+    },
+    {
+      "type": "score of last period confirmed",
+      "clock": false,
+      "timestamp": 1456954663801,
+      "playtime": 5729660,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6026490066225165
+    }
+  ]
+}

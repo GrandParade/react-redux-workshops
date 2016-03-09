@@ -1,0 +1,942 @@
+{
+  "id": "10445451",
+  "name": "Eintracht Frankfurt vs FC Schalke 04",
+  "timestamp": 1456684200000,
+  "home": "Eintracht Frankfurt",
+  "away": "FC Schalke 04",
+  "league": "Bundesliga",
+  "stadium": "Commerzbank Arena",
+  "incidents": [
+    {
+      "type": "start 1st half, kickoff:",
+      "clock": true,
+      "timestamp": 1456684206000,
+      "playtime": 0,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "The match is underway in Frankfurt."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456684293000,
+      "playtime": 87000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456684343000,
+      "playtime": 137000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456684343000,
+      "playtime": 137000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "Eintracht Frankfurt drive forward but Haris Seferovic is judged offside."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456684404000,
+      "playtime": 198000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456684404000,
+      "playtime": 198000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456684519000,
+      "playtime": 313000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456684579000,
+      "playtime": 373000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456684592000,
+      "playtime": 386000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.42857142857142855,
+      "comment": "In Frankfurt Eintracht Frankfurt's Haris Seferovic is caught offside."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456684663000,
+      "playtime": 457000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456684663000,
+      "playtime": 457000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.375
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456684663000,
+      "playtime": 457000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.3333333333333333
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456684755000,
+      "playtime": 549000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.3333333333333333
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456684862000,
+      "playtime": 656000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.3333333333333333
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456684903000,
+      "playtime": 697000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.3333333333333333
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456684976000,
+      "playtime": 770000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.3333333333333333
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456685170000,
+      "playtime": 964000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.3333333333333333
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456685210000,
+      "playtime": 1004000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456685414000,
+      "playtime": 1208000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456685454000,
+      "playtime": 1248000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456685587000,
+      "playtime": 1381000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.45454545454545453
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456685617000,
+      "playtime": 1411000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.45454545454545453
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456685647000,
+      "playtime": 1441000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456685657000,
+      "playtime": 1451000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5384615384615384
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456685789000,
+      "playtime": 1583000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5384615384615384
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456685894000,
+      "playtime": 1688000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5714285714285714
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456685894000,
+      "playtime": 1688000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6,
+      "comment": "Szabolcs Huszti (Eintracht Frankfurt) is given an opening but the shot is blocked by a defender."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456685924000,
+      "playtime": 1718000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456685924000,
+      "playtime": 1718000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6,
+      "comment": "Alexander Meier for Eintracht Frankfurt is whistled offside."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456686062000,
+      "playtime": 1856000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.625
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456686072000,
+      "playtime": 1866000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.625
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456686122000,
+      "playtime": 1916000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.625
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456686152000,
+      "playtime": 1946000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.625
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456686298000,
+      "playtime": 2092000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.625
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456686402000,
+      "playtime": 2196000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.625
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456686497000,
+      "playtime": 2291000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.625
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456686547000,
+      "playtime": 2341000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5882352941176471
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456686638000,
+      "playtime": 2432000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6111111111111112
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456686648000,
+      "playtime": 2442000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456686648000,
+      "playtime": 2442000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456686679000,
+      "playtime": 2473000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456686741000,
+      "playtime": 2535000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.631578947368421
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456686824000,
+      "playtime": 2618000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.65
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456686884000,
+      "playtime": 2678000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "stop 1st half",
+      "clock": false,
+      "timestamp": 1456686924000,
+      "playtime": 2700000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6190476190476191,
+      "comment": "The ref's whistle signals the end of the first-half."
+    },
+    {
+      "type": "start 2nd half, kickoff:",
+      "clock": true,
+      "timestamp": 1456687935000,
+      "playtime": 2708000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6190476190476191,
+      "comment": "The second-half is underway at Commerzbank Arena."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456687965000,
+      "playtime": 2738000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456688238000,
+      "playtime": 3011000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456688308000,
+      "playtime": 3081000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456688308000,
+      "playtime": 3081000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456688328000,
+      "playtime": 3101000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456688428000,
+      "playtime": 3201000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456688551000,
+      "playtime": 3324000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456688584000,
+      "playtime": 3357000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456688656000,
+      "playtime": 3429000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456688707000,
+      "playtime": 3480000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6190476190476191
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456688822000,
+      "playtime": 3595000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456688852000,
+      "playtime": 3625000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6363636363636364
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456688961000,
+      "playtime": 3734000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6363636363636364,
+      "comment": "Max Meyer is replacing Junior Caicara for FC Schalke 04 at Commerzbank Arena."
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456688991000,
+      "playtime": 3764000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6521739130434783
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456689059000,
+      "playtime": 3832000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6521739130434783
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456689091000,
+      "playtime": 3864000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6521739130434783
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456689112000,
+      "playtime": 3885000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456689112000,
+      "playtime": 3885000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456689172000,
+      "playtime": 3945000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "game suspended - player injured",
+      "clock": true,
+      "timestamp": 1456689198000,
+      "playtime": 3971000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666,
+      "comment": "Bastian Oczipka is down and play has been interrupted for a few moments."
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456689228000,
+      "playtime": 4001000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666,
+      "comment": "Andre Breitenreiter is making the team's second substitution at Commerzbank Arena with Leroy Sane replacing Younes Belhanda."
+    },
+    {
+      "type": "game clock start",
+      "clock": true,
+      "timestamp": 1456689258000,
+      "playtime": 4031000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666,
+      "comment": "Play is underway once more."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456689301000,
+      "playtime": 4074000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "game suspended - player injured",
+      "clock": true,
+      "timestamp": 1456689423000,
+      "playtime": 4196000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666,
+      "comment": "Play has been interrupted briefly in Frankfurt to check on Bastian Oczipka, who is grimacing with pain."
+    },
+    {
+      "type": "game suspended - player injured",
+      "clock": true,
+      "timestamp": 1456689475000,
+      "playtime": 4248000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666,
+      "comment": "Play has been interrupted briefly in Frankfurt to check on Carlos Zambrano, who is grimacing with pain."
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456689475000,
+      "playtime": 4248000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666,
+      "comment": "The home team have substituted Carlos Zambrano with Yanni Regasel. Armin Veh is thus making his first change."
+    },
+    {
+      "type": "game clock start",
+      "clock": true,
+      "timestamp": 1456689475000,
+      "playtime": 4248000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666,
+      "comment": "Play has been resumed."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456689506000,
+      "playtime": 4279000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456689516000,
+      "playtime": 4289000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666,
+      "comment": "At Commerzbank Arena, Eintracht Frankfurt are penalized for being offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456689545000,
+      "playtime": 4318000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456689579000,
+      "playtime": 4352000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456689726000,
+      "playtime": 4499000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6666666666666666,
+      "comment": "FC Schalke 04 make their third substitution with Franco Di Santo replacing Klaas Jan Huntelaar."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456689756000,
+      "playtime": 4529000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6666666666666666
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456689796000,
+      "playtime": 4569000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.68
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456689806000,
+      "playtime": 4579000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456689806000,
+      "playtime": 4579000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456689867000,
+      "playtime": 4640000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6923076923076923
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456689867000,
+      "playtime": 4640000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6923076923076923,
+      "comment": "FC Schalke 04 are caught offside."
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456689903000,
+      "playtime": 4676000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6666666666666666,
+      "comment": "Leroy Sane (FC Schalke 04) gets in a strike but the shot is blocked by a defender."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456689924000,
+      "playtime": 4697000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6428571428571429
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456689934000,
+      "playtime": 4707000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6428571428571429
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456690058000,
+      "playtime": 4831000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6428571428571429
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456690256000,
+      "playtime": 5029000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6428571428571429
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456690330000,
+      "playtime": 5103000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6206896551724138
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456690428000,
+      "playtime": 5201000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6206896551724138,
+      "comment": "Sonny Kittel is on a sub for Szabolcs Huszti for Eintracht Frankfurt."
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456690458000,
+      "playtime": 5231000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6206896551724138,
+      "comment": "The home team have replaced Marc Stendera with Slobodan Medojevic. This is the third substitution made today by Armin Veh."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456690469000,
+      "playtime": 5242000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6206896551724138
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456690469000,
+      "playtime": 5242000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.6
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456690499000,
+      "playtime": 5272000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.6
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456690519000,
+      "playtime": 5292000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.6206896551724138
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456690565000,
+      "playtime": 5338000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.6206896551724138
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456690665000,
+      "playtime": 5438000,
+      "team": "home",
+      "weight": -1,
+      "momentum": 0.6071428571428571
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456690675000,
+      "playtime": 5448000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.6296296296296297
+    },
+    {
+      "type": "stop 2nd half",
+      "clock": false,
+      "timestamp": 1456690707000,
+      "playtime": 5448000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6296296296296297,
+      "comment": "Full-time! The final score is 0 - 0."
+    },
+    {
+      "type": "stop game",
+      "clock": false,
+      "timestamp": 1456690707000,
+      "playtime": 5448000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.6296296296296297
+    }
+  ]
+}

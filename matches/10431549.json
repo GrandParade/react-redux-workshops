@@ -1,0 +1,999 @@
+{
+  "id": "10431549",
+  "name": "SD Ponferradina vs AD Alcorcon",
+  "timestamp": 1455382800000,
+  "home": "SD Ponferradina",
+  "away": "AD Alcorcon",
+  "league": "Segunda Division",
+  "stadium": "Estadio El Toralin",
+  "incidents": [
+    {
+      "type": "start 1st half, kickoff:",
+      "clock": true,
+      "timestamp": 1455382774000,
+      "playtime": 0,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "Today's referee, Ruben Ruiperez Marin, has blown to start the match."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455382846000,
+      "playtime": 72000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "players lined up",
+      "clock": true,
+      "timestamp": 1455383022000,
+      "playtime": 248000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "The team line-ups for today's match at Estadio El Toralin are now available."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455383106000,
+      "playtime": 332000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455383116000,
+      "playtime": 342000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455383116000,
+      "playtime": 342000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.42857142857142855,
+      "comment": "At Estadio El Toralin, AD Alcorcon are penalized for being offside."
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455383156000,
+      "playtime": 382000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455383156000,
+      "playtime": 382000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455383227000,
+      "playtime": 453000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455383227000,
+      "playtime": 453000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455383551000,
+      "playtime": 777000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455383777000,
+      "playtime": 1003000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455383846000,
+      "playtime": 1072000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455383933000,
+      "playtime": 1159000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455383953000,
+      "playtime": 1179000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455384057000,
+      "playtime": 1283000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455384067000,
+      "playtime": 1293000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4444444444444444,
+      "comment": "SD Ponferradina are caught offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455384108000,
+      "playtime": 1334000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455384108000,
+      "playtime": 1334000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4444444444444444,
+      "comment": "SD Ponferradina drive forward at breakneck speed but are pulled up for offside."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455384158000,
+      "playtime": 1384000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455384185000,
+      "playtime": 1411000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455384255000,
+      "playtime": 1481000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455384255000,
+      "playtime": 1481000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4,
+      "comment": "AD Alcorcon advance rapidly upfield but Ruben Ruiperez Marin blows for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455384364000,
+      "playtime": 1590000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455384495000,
+      "playtime": 1721000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455384539000,
+      "playtime": 1765000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455384539000,
+      "playtime": 1765000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4,
+      "comment": "SD Ponferradina push upfield but Ruben Ruiperez Marin quickly pulls them for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455384569000,
+      "playtime": 1795000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455384629000,
+      "playtime": 1855000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455384629000,
+      "playtime": 1855000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4,
+      "comment": "In Ponferrada, SD Ponferradina push forward quickly but are pulled up for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455384735000,
+      "playtime": 1961000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455384893000,
+      "playtime": 2119000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.45454545454545453
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455384965000,
+      "playtime": 2191000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.45454545454545453
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455384965000,
+      "playtime": 2191000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4166666666666667
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455385046000,
+      "playtime": 2272000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4166666666666667
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455385046000,
+      "playtime": 2272000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4166666666666667,
+      "comment": "AD Alcorcon are whistled for offside."
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1455385072000,
+      "playtime": 2298000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.46153846153846156,
+      "comment": "SD Ponferradina push forward at Estadio El Toralin and William Jebor gets in a strike. This is blocked, however, by a determined AD Alcorcon defence."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455385105000,
+      "playtime": 2331000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.46153846153846156
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455385176000,
+      "playtime": 2402000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.46153846153846156
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455385206000,
+      "playtime": 2432000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.5
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455385286000,
+      "playtime": 2512000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.46153846153846156
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455385326000,
+      "playtime": 2552000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.46153846153846156
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455385417000,
+      "playtime": 2643000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.46153846153846156
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455385417000,
+      "playtime": 2643000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.46153846153846156,
+      "comment": "SD Ponferradina advance rapidly upfield but Ruben Ruiperez Marin blows for offside."
+    },
+    {
+      "type": "stop 1st half",
+      "clock": false,
+      "timestamp": 1455385496000,
+      "playtime": 2700000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.46153846153846156,
+      "comment": "The first-half is over at Estadio El Toralin."
+    },
+    {
+      "type": "start 2nd half, kickoff:",
+      "clock": true,
+      "timestamp": 1455386396000,
+      "playtime": 2706000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.46153846153846156,
+      "comment": "The second-half is now underway."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455386447000,
+      "playtime": 2757000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455386477000,
+      "playtime": 2787000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455386477000,
+      "playtime": 2787000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "At Estadio El Toralin, SD Ponferradina are penalized for being offside."
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455386530000,
+      "playtime": 2840000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4666666666666667
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455386694000,
+      "playtime": 3004000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4375
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455386704000,
+      "playtime": 3014000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4375
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455386785000,
+      "playtime": 3095000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4375
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455386785000,
+      "playtime": 3095000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4117647058823529
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455386846000,
+      "playtime": 3156000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4117647058823529
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455386936000,
+      "playtime": 3246000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455386936000,
+      "playtime": 3246000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455386997000,
+      "playtime": 3307000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4444444444444444,
+      "comment": "The home team replace Acoran with Pablo Infante."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455387057000,
+      "playtime": 3367000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455387057000,
+      "playtime": 3367000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.42105263157894735
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455387139000,
+      "playtime": 3449000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42105263157894735
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455387150000,
+      "playtime": 3460000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455387190000,
+      "playtime": 3500000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455387260000,
+      "playtime": 3570000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455387300000,
+      "playtime": 3610000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455387372000,
+      "playtime": 3682000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4444444444444444,
+      "comment": "Iain Hume is replacing William Jebor for SD Ponferradina at Estadio El Toralin."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455387415000,
+      "playtime": 3725000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455387446000,
+      "playtime": 3756000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455387446000,
+      "playtime": 3756000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4444444444444444,
+      "comment": "AD Alcorcon push upfield but Ruben Ruiperez Marin quickly pulls them for offside."
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455387476000,
+      "playtime": 3786000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4444444444444444,
+      "comment": "Juan Ramon Muniz (AD Alcorcon) is making a first substitution, with Victor Pastrana Carrasco replacing Razvan Ochirosii."
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455387506000,
+      "playtime": 3816000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.47368421052631576
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455387557000,
+      "playtime": 3867000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.47368421052631576
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455387557000,
+      "playtime": 3867000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.47368421052631576,
+      "comment": "In Ponferrada, SD Ponferradina push forward quickly but are pulled up for offside."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455387611000,
+      "playtime": 3921000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.45
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455387651000,
+      "playtime": 3961000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.45
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455387682000,
+      "playtime": 3992000,
+      "team": "home",
+      "weight": -1,
+      "momentum": 0.42105263157894735
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1455387712000,
+      "playtime": 4022000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455387776000,
+      "playtime": 4086000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4,
+      "comment": "The away team have replaced Mayor with Alvaro Rey. This is the second substitution made today by Juan Ramon Muniz."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455387826000,
+      "playtime": 4136000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455387956000,
+      "playtime": 4266000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.38095238095238093
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455388068000,
+      "playtime": 4378000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.38095238095238093
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455388068000,
+      "playtime": 4378000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.38095238095238093,
+      "comment": "SD Ponferradina are too eager and fall into an offside trap."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455388136000,
+      "playtime": 4446000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.38095238095238093
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455388229000,
+      "playtime": 4539000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.38095238095238093
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455388249000,
+      "playtime": 4559000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.4
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455388326000,
+      "playtime": 4636000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455388326000,
+      "playtime": 4636000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455388407000,
+      "playtime": 4717000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455388458000,
+      "playtime": 4768000,
+      "team": "home",
+      "weight": -1,
+      "momentum": 0.4
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455388517000,
+      "playtime": 4827000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455388517000,
+      "playtime": 4827000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.38095238095238093
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1455388527000,
+      "playtime": 4837000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.4
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455388558000,
+      "playtime": 4868000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455388609000,
+      "playtime": 4919000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455388709000,
+      "playtime": 5019000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1455388800000,
+      "playtime": 5110000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455388910000,
+      "playtime": 5220000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455388971000,
+      "playtime": 5281000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.42857142857142855
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1455388971000,
+      "playtime": 5281000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4090909090909091
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455389011000,
+      "playtime": 5321000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4090909090909091,
+      "comment": "Juan Ramon Muniz is making the team's third substitution at Estadio El Toralin with Nelson replacing Fede."
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1455389035000,
+      "playtime": 5345000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4090909090909091,
+      "comment": "Tomas Nistal Garcia is making the team's third substitution at Estadio El Toralin with Jorge Casado replacing Gonzalo Melero."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455389056000,
+      "playtime": 5366000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4090909090909091
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1455389097000,
+      "playtime": 5407000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4090909090909091,
+      "comment": "SD Ponferradina are whistled for offside."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1455389189000,
+      "playtime": 5499000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4090909090909091
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1455389268000,
+      "playtime": 5578000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4090909090909091
+    },
+    {
+      "type": "stop 2nd half",
+      "clock": false,
+      "timestamp": 1455389288000,
+      "playtime": 5578000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4090909090909091,
+      "comment": "The second-half is over. The match ends 0 - 0."
+    },
+    {
+      "type": "stop game",
+      "clock": false,
+      "timestamp": 1455389288000,
+      "playtime": 5578000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4090909090909091
+    }
+  ]
+}

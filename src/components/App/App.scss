@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #151520;
+  color: #fff;
+  font: 16px Lato, Arial, Tahoma, Sans;
+  text-align: center;
+}
+
+#app {
+  padding: 20px;
+}

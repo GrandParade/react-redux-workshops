@@ -1,0 +1,1116 @@
+{
+  "id": "10454800",
+  "name": "Athletic Bilbao vs Olympique Marseille",
+  "timestamp": 1456423200000,
+  "home": "Athletic Bilbao",
+  "away": "Olympique Marseille",
+  "league": "UEFA Europa League, Knockout stage",
+  "stadium": "San Mames",
+  "incidents": [
+    {
+      "type": "start 1st half, kickoff:",
+      "clock": true,
+      "timestamp": 1456423300000,
+      "playtime": 0,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "The match has started at San Mames."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456423385000,
+      "playtime": 85000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456423385000,
+      "playtime": 85000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "Athletic Bilbao are whistled for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456423425000,
+      "playtime": 125000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456423425000,
+      "playtime": 125000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "Athletic Bilbao drive forward at breakneck speed but are pulled up for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456423617000,
+      "playtime": 317000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "game suspended - player injured",
+      "clock": true,
+      "timestamp": 1456423753000,
+      "playtime": 453000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "Play has been temporarily suspended for attention to Michy Batshuayi for Olympique Marseille who is writhing in pain on the pitch."
+    },
+    {
+      "type": "game clock start",
+      "clock": true,
+      "timestamp": 1456423753000,
+      "playtime": 453000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "The match is underway again."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456423824000,
+      "playtime": 524000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456423854000,
+      "playtime": 554000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456423925000,
+      "playtime": 625000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5714285714285714
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456423925000,
+      "playtime": 625000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5714285714285714
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456423991000,
+      "playtime": 691000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5714285714285714
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456423991000,
+      "playtime": 691000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456424092000,
+      "playtime": 792000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456424164000,
+      "playtime": 864000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456424174000,
+      "playtime": 874000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456424225000,
+      "playtime": 925000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456424266000,
+      "playtime": 966000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456424266000,
+      "playtime": 966000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4,
+      "comment": "Olympique Marseille push upfield but Aleksey Kulbakov quickly pulls them for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456424319000,
+      "playtime": 1019000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456424510000,
+      "playtime": 1210000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456424510000,
+      "playtime": 1210000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.36363636363636365
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456424613000,
+      "playtime": 1313000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.3333333333333333
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456424643000,
+      "playtime": 1343000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.3333333333333333
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456424663000,
+      "playtime": 1363000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.38461538461538464
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456424663000,
+      "playtime": 1363000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.38461538461538464
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456424736000,
+      "playtime": 1436000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.38461538461538464
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456424867000,
+      "playtime": 1567000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.38461538461538464
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456424937000,
+      "playtime": 1637000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.35714285714285715
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456424978000,
+      "playtime": 1678000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.35714285714285715
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456425028000,
+      "playtime": 1728000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456425048000,
+      "playtime": 1748000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.375
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456425118000,
+      "playtime": 1818000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.375
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456425118000,
+      "playtime": 1818000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.375,
+      "comment": "At San Mames, Olympique Marseille are penalized for being offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456425209000,
+      "playtime": 1909000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.375
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456425209000,
+      "playtime": 1909000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.375,
+      "comment": "In Bilbao, Athletic Bilbao push forward quickly but are pulled up for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456425333000,
+      "playtime": 2033000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.375
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456425343000,
+      "playtime": 2043000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.4
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456425436000,
+      "playtime": 2136000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4375,
+      "comment": "Athletic Bilbao's Ander Iturraspe gets in a shot but it is blocked by a Olympique Marseille defender."
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456425456000,
+      "playtime": 2156000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.47058823529411764
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456425456000,
+      "playtime": 2156000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456425456000,
+      "playtime": 2156000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456425497000,
+      "playtime": 2197000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456425497000,
+      "playtime": 2197000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5,
+      "comment": "Olympique Marseille advance rapidly upfield but Aleksey Kulbakov blows for offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456425517000,
+      "playtime": 2217000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456425597000,
+      "playtime": 2297000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456425608000,
+      "playtime": 2308000,
+      "team": "home",
+      "weight": -1,
+      "momentum": 0.47058823529411764
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456425608000,
+      "playtime": 2308000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.5
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456425628000,
+      "playtime": 2328000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456425711000,
+      "playtime": 2411000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.47058823529411764
+    },
+    {
+      "type": "goal",
+      "clock": true,
+      "timestamp": 1456425741000,
+      "playtime": 2441000,
+      "team": "away",
+      "weight": 5,
+      "momentum": 0.36363636363636365
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456425772000,
+      "playtime": 2472000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.36363636363636365
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456425822000,
+      "playtime": 2522000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.36363636363636365
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456425822000,
+      "playtime": 2522000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.36363636363636365,
+      "comment": "At San Mames, Olympique Marseille are penalized for being offside."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456425973000,
+      "playtime": 2673000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.36363636363636365
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456426035000,
+      "playtime": 2735000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.391304347826087
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456426065000,
+      "playtime": 2765000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.391304347826087
+    },
+    {
+      "type": "stop 1st half",
+      "clock": false,
+      "timestamp": 1456426216000,
+      "playtime": 2765000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.391304347826087,
+      "comment": "The first-half is over."
+    },
+    {
+      "type": "start 2nd half, kickoff:",
+      "clock": true,
+      "timestamp": 1456427051000,
+      "playtime": 2710000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.391304347826087,
+      "comment": "The whistle has gone to start the second-half."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456427124000,
+      "playtime": 2783000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.391304347826087
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456427154000,
+      "playtime": 2813000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.391304347826087
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456427343000,
+      "playtime": 3002000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.391304347826087
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456427403000,
+      "playtime": 3062000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.391304347826087
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456427463000,
+      "playtime": 3122000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4166666666666667
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456427463000,
+      "playtime": 3122000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4166666666666667
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456427473000,
+      "playtime": 3132000,
+      "team": "home",
+      "weight": -1,
+      "momentum": 0.391304347826087
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456427587000,
+      "playtime": 3246000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.391304347826087
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456427638000,
+      "playtime": 3297000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.375
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456427776000,
+      "playtime": 3435000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.375
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456427796000,
+      "playtime": 3455000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.375,
+      "comment": "Ernesto Valverde is making the team's first substitution at San Mames with Iker Muniain replacing Inigo Lekue."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456427836000,
+      "playtime": 3495000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.375
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456427908000,
+      "playtime": 3567000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456427918000,
+      "playtime": 3577000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456427984000,
+      "playtime": 3643000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4230769230769231
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456428004000,
+      "playtime": 3663000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456428014000,
+      "playtime": 3673000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456428095000,
+      "playtime": 3754000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4444444444444444
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456428095000,
+      "playtime": 3754000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4444444444444444,
+      "comment": "Olympique Marseille's Michy Batshuayi has run offside."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456428155000,
+      "playtime": 3814000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4642857142857143
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456428165000,
+      "playtime": 3824000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.4827586206896552
+    },
+    {
+      "type": "game suspended - player injured",
+      "clock": true,
+      "timestamp": 1456428209000,
+      "playtime": 3868000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4827586206896552,
+      "comment": "Javi Manquillo is writhing in pain and play has been suspended for a few moments."
+    },
+    {
+      "type": "game clock start",
+      "clock": true,
+      "timestamp": 1456428230000,
+      "playtime": 3889000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4827586206896552,
+      "comment": "Play has been resumed."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456428371000,
+      "playtime": 4030000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4827586206896552
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456428532000,
+      "playtime": 4191000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4827586206896552
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456428532000,
+      "playtime": 4191000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4666666666666667
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456428562000,
+      "playtime": 4221000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4666666666666667
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456428593000,
+      "playtime": 4252000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4666666666666667
+    },
+    {
+      "type": "offside",
+      "clock": true,
+      "timestamp": 1456428593000,
+      "playtime": 4252000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.4666666666666667,
+      "comment": "In Bilbao, Olympique Marseille push forward quickly but are pulled up for offside."
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456428635000,
+      "playtime": 4294000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4666666666666667
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456428743000,
+      "playtime": 4402000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4666666666666667
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456428743000,
+      "playtime": 4402000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.45161290322580644
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456428763000,
+      "playtime": 4422000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4375,
+      "comment": "Olympique Marseille drive upfield and Georges-Kevin Nkoudou gets in a shot. The strike is blocked by a Athletic Bilbao defender."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456428783000,
+      "playtime": 4442000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4375
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456428823000,
+      "playtime": 4482000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.4375
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456428833000,
+      "playtime": 4492000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.45161290322580644
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456428874000,
+      "playtime": 4533000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.45161290322580644,
+      "comment": "Sabin Merino is replacing Raul Garcia for the home team."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456428936000,
+      "playtime": 4595000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.46875
+    },
+    {
+      "type": "dangerous attack",
+      "clock": true,
+      "timestamp": 1456428997000,
+      "playtime": 4656000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.45454545454545453,
+      "comment": "Important block from the Athletic Bilbao defence as Steven Fletcher fires in a strike for Olympique Marseille."
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456429007000,
+      "playtime": 4666000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.4411764705882353
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456429083000,
+      "playtime": 4742000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.4411764705882353
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456429184000,
+      "playtime": 4843000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.45714285714285713
+    },
+    {
+      "type": "goal",
+      "clock": true,
+      "timestamp": 1456429204000,
+      "playtime": 4863000,
+      "team": "home",
+      "weight": 5,
+      "momentum": 0.525
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456429375000,
+      "playtime": 5034000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.525
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456429404000,
+      "playtime": 5063000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.525,
+      "comment": "The away team replace Javi Manquillo with Florian Thauvin."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456429464000,
+      "playtime": 5123000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.525
+    },
+    {
+      "type": "goal kick",
+      "clock": true,
+      "timestamp": 1456429495000,
+      "playtime": 5154000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.525
+    },
+    {
+      "type": "shot off target",
+      "clock": true,
+      "timestamp": 1456429495000,
+      "playtime": 5154000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5121951219512195
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456429525000,
+      "playtime": 5184000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5121951219512195,
+      "comment": "The away team have replaced Karim Rekik with Romain Alessandrini. This is the second substitution made today by  Michel."
+    },
+    {
+      "type": "substitution",
+      "clock": true,
+      "timestamp": 1456429605000,
+      "playtime": 5264000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5121951219512195,
+      "comment": "Ernesto Valverde (Athletic Bilbao) is making a third substitution, with Mikel Rico replacing Markel Susaeta."
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456429626000,
+      "playtime": 5285000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5121951219512195
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456429667000,
+      "playtime": 5326000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5121951219512195
+    },
+    {
+      "type": "corner",
+      "clock": true,
+      "timestamp": 1456429748000,
+      "playtime": 5407000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5238095238095238
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456429758000,
+      "playtime": 5417000,
+      "team": "home",
+      "weight": 1,
+      "momentum": 0.5348837209302325
+    },
+    {
+      "type": "shot on target",
+      "clock": true,
+      "timestamp": 1456429867000,
+      "playtime": 5526000,
+      "team": "away",
+      "weight": 1,
+      "momentum": 0.5227272727272727
+    },
+    {
+      "type": "yellow card",
+      "clock": true,
+      "timestamp": 1456429912000,
+      "playtime": 5571000,
+      "team": "away",
+      "weight": -1,
+      "momentum": 0.5348837209302325
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456429933000,
+      "playtime": 5592000,
+      "team": "away",
+      "weight": null,
+      "momentum": 0.5348837209302325
+    },
+    {
+      "type": "free kick",
+      "clock": true,
+      "timestamp": 1456429964000,
+      "playtime": 5623000,
+      "team": "home",
+      "weight": null,
+      "momentum": 0.5348837209302325
+    },
+    {
+      "type": "stop game",
+      "clock": false,
+      "timestamp": 1456429992000,
+      "playtime": 5623000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5348837209302325
+    },
+    {
+      "type": "stop 2nd half",
+      "clock": false,
+      "timestamp": 1456430002000,
+      "playtime": 5623000,
+      "team": "generic",
+      "weight": null,
+      "momentum": 0.5348837209302325,
+      "comment": "Aleksey Kulbakov blows to end the match. The final score is 1 - 1."
+    }
+  ]
+}
