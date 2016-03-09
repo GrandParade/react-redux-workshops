@@ -2,6 +2,7 @@ import React, { PropTypes } from 'react';
 
 import Statistics from '../Statistics';
 import Timeline from '../Timeline';
+import Tabs from '../Tabs';
 
 import { time as formatTime } from '../../utils/format';
 
@@ -12,6 +13,13 @@ const VISIBLE_STATISTICS = [
     { id: 'dangerous attack', name: 'Dangerous attacks' },
     { id: 'shot on target', name: 'Shots on target' },
     { id: 'corner', name: 'Corners' }
+];
+
+const FULL_MATCH_TIME = '100000000';
+
+const TABS = [
+    { id: String(5 * 60000), name: '5 minutes' },
+    { id: FULL_MATCH_TIME, name: 'Full match' }
 ];
 
 class Game extends React.Component {
@@ -36,7 +44,9 @@ class Game extends React.Component {
 
         this.state = {
             playtimeUpdatedAt: Date.now(),
-            playtime: props.playtime
+            playtime: props.playtime,
+            currentTab: FULL_MATCH_TIME,
+            statistics: this.getStatistics(props, props.playtime, FULL_MATCH_TIME)
         };
     }
 
@@ -48,10 +58,32 @@ class Game extends React.Component {
         if (this.interval && props.playtime !== this.props.playtime) {
             this.startTimer(props.playtime);
         }
+
+        if (this.props.incidents !== props.incidents) {
+            this.setState({
+                statistics: this.getStatistics(props, props.playtime, this.state.currentTab)
+            });
+        }
     }
 
     componentWillUnmount() {
         this.stopTimer();
+    }
+
+    getStatistics(props, playtime, currentTab) {
+        if (props.incidents === this.props.incidents && playtime === this.playtime && this.state) {
+            return this.state.statistics;
+        }
+
+        const incidentsFrame = props.incidents.filter(i => playtime - currentTab < i.playtime);
+
+        return VISIBLE_STATISTICS.map(stat => {
+            return {
+                ...stat,
+                home: incidentsFrame.filter(i => i.team === 'home' && i.type === stat.id).length,
+                away: incidentsFrame.filter(i => i.team === 'away' && i.type === stat.id).length
+            };
+        });
     }
 
     startTimer(time) {
@@ -59,19 +91,23 @@ class Game extends React.Component {
 
         this.setState({
             playtime: time,
-            playtimeUpdatedAt: Date.now()
+            playtimeUpdatedAt: Date.now(),
+            statistics: this.getStatistics(this.props, time, this.state.currentTab)
         });
 
         this.interval = setInterval(() => {
             const { stopped, playtime } = this.props;
-            const { playtimeUpdatedAt } = this.state;
+            const { playtimeUpdatedAt, currentTab } = this.state;
 
             if (stopped) {
                 return;
             }
 
+            let currentPlaytime = playtime + process.env.SPEED * (Date.now() - playtimeUpdatedAt);
+
             this.setState({
-                playtime: playtime + process.env.SPEED * (Date.now() - playtimeUpdatedAt)
+                statistics: this.getStatistics(this.props, time, currentTab),
+                playtime: currentPlaytime
             });
         }, 10);
     }
@@ -80,9 +116,16 @@ class Game extends React.Component {
         clearInterval(this.interval);
     }
 
+    changeTab(tab) {
+        this.setState({
+            currentTab: tab,
+            statistics: this.getStatistics(this.props, this.state.playtime, tab)
+        });
+    }
+
     render() {
         const { home, away, incidents } = this.props;
-        const { playtime } = this.state;
+        const { playtime, statistics, currentTab } = this.state;
 
         return (
             <div className="game">
@@ -93,15 +136,7 @@ class Game extends React.Component {
                 </header>
 
                 <Statistics
-                    options={
-                        VISIBLE_STATISTICS.map(option => {
-                            return {
-                                ...option,
-                                home: incidents.filter(i => i.team === 'home' && i.type === option.id).length,
-                                away: incidents.filter(i => i.team === 'away' && i.type === option.id).length
-                            };
-                        })
-                    }
+                    options={ statistics }
                 />
 
                 <Timeline
@@ -110,6 +145,12 @@ class Game extends React.Component {
                     heightPerSecond={ 3 }
                     incidents={ incidents }
                     playtime={ playtime }
+                />
+
+                <Tabs
+                    active={ currentTab }
+                    onChange={ this.changeTab.bind(this) }
+                    tabs={ TABS }
                 />
             </div>
         );

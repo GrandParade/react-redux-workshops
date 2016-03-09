@@ -46,9 +46,9 @@ class Timeline extends React.Component {
 
                     <g transform={ transformAboveStart }>
                         {
-                            incidents.map(incident => (
+                            incidents.map((incident, idx) => (
                                 <circle
-                                    key={ incident.id }
+                                    key={ idx }
                                     className="timeline__incident"
                                     { ...calculatePoint(incident, width, heightPerSecond) }
                                     r="10"
