@@ -10,17 +10,69 @@ class Game extends React.Component {
     static propTypes = {
         home: PropTypes.string,
         away: PropTypes.string,
-        playtime: PropTypes.number
+        playtime: PropTypes.number,
+        stopped: PropTypes.bool
     };
 
     static defaultProps = {
         home: 'Team 1',
         away: 'Team 2',
-        playtime: 0
+        playtime: 0,
+        stopped: false
     };
 
+    constructor(props, context) {
+        super(props, context);
+
+        this.state = {
+            playtimeUpdatedAt: Date.now(),
+            playtime: props.playtime
+        };
+    }
+
+    componentDidMount() {
+        this.startTimer(this.props.playtime);
+    }
+
+    componentWillReceiveProps(props) {
+        if (this.interval && props.playtime !== this.props.playtime) {
+            this.startTimer(props.playtime);
+        }
+    }
+
+    componentWillUnmount() {
+        this.stopTimer();
+    }
+
+    startTimer(time) {
+        this.stopTimer();
+
+        this.setState({
+            playtime: time,
+            playtimeUpdatedAt: Date.now()
+        });
+
+        this.interval = setInterval(() => {
+            const { stopped, playtime } = this.props;
+            const { playtimeUpdatedAt } = this.state;
+
+            if (stopped) {
+                return;
+            }
+
+            this.setState({
+                playtime: playtime + process.env.SPEED * (Date.now() - playtimeUpdatedAt)
+            });
+        }, 10);
+    }
+
+    stopTimer() {
+        clearInterval(this.interval);
+    }
+
     render() {
-        const { home, away, playtime } = this.props;
+        const { home, away } = this.props;
+        const { playtime } = this.state;
 
         return (
             <div className="game">
