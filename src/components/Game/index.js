@@ -1,4 +1,5 @@
 import React, { PropTypes } from 'react';
+import { connect } from 'react-redux';
 
 import Statistics from '../Statistics';
 import Timeline from '../Timeline';
@@ -36,7 +37,7 @@ class Game extends React.Component {
         away: 'Team 2',
         playtime: 0,
         incidents: [],
-        stopped: false
+        stopped: true
     };
 
     constructor(props, context) {
@@ -178,4 +179,16 @@ class Game extends React.Component {
     }
 }
 
-export default Game;
+function mapStateToProps(state) {
+    let incident = state.incidents.length && state.incidents[state.incidents.length - 1];
+
+    return {
+        home: state.match.home,
+        away: state.match.away,
+        incidents: state.incidents,
+        playtime: incident ? incident.playtime : 0,
+        stopped: incident ? !incident.clock : true
+    };
+}
+
+export default connect(mapStateToProps)(Game);
