@@ -39,11 +39,7 @@ class App extends React.Component {
                 <Provider store={ store }>
                     <div>
                         <Game />
-
-                        <Chat
-                            messages={ messages }
-                            onSendMessage={ this.addMessage.bind(this) }
-                        />
+                        <Chat />
                     </div>
                 </Provider>
             </div>

@@ -1,5 +1,8 @@
 import React, { PropTypes } from 'react';
 import ReactDOM from 'react-dom';
+import { connect } from 'react-redux';
+
+import { send as sendMessage } from '../../actions/message';
 
 import './Chat.scss';
 
@@ -92,4 +95,16 @@ class Chat extends React.Component {
     }
 }
 
-export default Chat;
+function mapStateToProps(state) {
+    return {
+        messages: state.messages
+    };
+}
+
+function mapDispatchToProps(dispatch) {
+    return {
+        onSendMessage: (message) => dispatch(sendMessage(message))
+    };
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Chat);
