@@ -42,12 +42,12 @@ class Game extends React.Component {
     constructor(props, context) {
         super(props, context);
 
-        this.state = {
-            playtimeUpdatedAt: Date.now(),
-            playtime: props.playtime,
-            currentTab: FULL_MATCH_TIME,
-            statistics: this.getStatistics(props, props.playtime, FULL_MATCH_TIME)
-        };
+        this.state = this.prepareState(
+            props,
+            FULL_MATCH_TIME,
+            props.playtime,
+            Date.now()
+        );
     }
 
     componentDidMount() {
@@ -70,11 +70,24 @@ class Game extends React.Component {
         this.stopTimer();
     }
 
-    getStatistics(props, playtime, currentTab) {
-        if (props.incidents === this.props.incidents && playtime === this.playtime && this.state) {
-            return this.state.statistics;
+    prepareState(props, currentTab = this.state.currentTab, playtime = this.state.playtime, playtimeUpdatedAt) {
+        let result = {
+            currentTab,
+            playtime
+        };
+
+        if (props.incidents !== this.props.incidents || !this.state || currentTab !== this.state.currentTab) {
+            result.statistics = this.getStatistics(props, playtime, currentTab);
         }
 
+        if (playtimeUpdatedAt !== void 0) {
+            result.playtimeUpdatedAt = playtimeUpdatedAt;
+        }
+
+        return result;
+    }
+
+    getStatistics(props, playtime, currentTab) {
         const incidentsFrame = props.incidents.filter(i => playtime - currentTab < i.playtime);
 
         return VISIBLE_STATISTICS.map(stat => {
@@ -89,15 +102,18 @@ class Game extends React.Component {
     startTimer(time) {
         this.stopTimer();
 
-        this.setState({
-            playtime: time,
-            playtimeUpdatedAt: Date.now(),
-            statistics: this.getStatistics(this.props, time, this.state.currentTab)
-        });
+        this.setState(
+            this.prepareState(
+                this.props,
+                void 0,
+                time,
+                Date.now()
+            )
+        );
 
         this.interval = setInterval(() => {
             const { stopped, playtime } = this.props;
-            const { playtimeUpdatedAt, currentTab } = this.state;
+            const { playtimeUpdatedAt } = this.state;
 
             if (stopped) {
                 return;
@@ -105,10 +121,13 @@ class Game extends React.Component {
 
             let currentPlaytime = playtime + process.env.SPEED * (Date.now() - playtimeUpdatedAt);
 
-            this.setState({
-                statistics: this.getStatistics(this.props, time, currentTab),
-                playtime: currentPlaytime
-            });
+            this.setState(
+                this.prepareState(
+                    this.props,
+                    void 0,
+                    currentPlaytime
+                )
+            );
         }, 10);
     }
 
@@ -117,10 +136,12 @@ class Game extends React.Component {
     }
 
     changeTab(tab) {
-        this.setState({
-            currentTab: tab,
-            statistics: this.getStatistics(this.props, this.state.playtime, tab)
-        });
+        this.setState(
+            this.prepareState(
+                this.props,
+                tab
+            )
+        );
     }
 
     render() {
