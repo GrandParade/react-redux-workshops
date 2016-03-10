@@ -1,17 +1,16 @@
-import { createStore } from 'redux';
+import { createStore, combineReducers } from 'redux';
 
-function reduce(state, action) {
-    console.log('Action happened', action);
-
-    return state;
-}
+import receiveIncident from './reducers/incident';
+import setMatchInfo from './reducers/match';
 
 export default createStore(
-    reduce,
+    combineReducers({
+        incidents: receiveIncident,
+        match: setMatchInfo
+    }),
     {
         match: {},
-        incidents: [],
-        messages: []
+        incidents: []
     },
     typeof window !== 'undefined' && window.devToolsExtension ? window.devToolsExtension() : f => f
 );
