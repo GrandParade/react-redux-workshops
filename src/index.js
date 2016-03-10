@@ -1,6 +1,8 @@
 import React from 'react';
 import { render } from 'react-dom';
 
+import './connect';
+
 window.Perf = require('react-addons-perf');
 
 var App = require('./components/App');
