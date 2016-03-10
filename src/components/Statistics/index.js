@@ -18,6 +18,10 @@ class Statistics extends React.Component {
         options: []
     };
 
+    shouldComponentUpdate(props) {
+        return this.props.options !== props.options;
+    }
+
     render() {
         const { options } = this.props;
 

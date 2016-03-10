@@ -20,6 +20,10 @@ class Timeline extends React.Component {
         playtime: 0
     };
 
+    shouldComponentUpdate(props) {
+        return Object.keys(this.constructor.propTypes).filter(x => this.props[x] !== props[x]).length;
+    }
+
     render() {
         const { incidents, width, viewportHeight, heightPerSecond, playtime } = this.props;
 
