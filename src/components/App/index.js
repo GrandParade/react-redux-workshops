@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Game from '../Game';
+import Chat from '../Chat';
 
 import match from '../../../matches/10431549.json';
 
@@ -11,7 +12,11 @@ class App extends React.Component {
         super(props, context);
 
         this.state = {
-            incidents: []
+            incidents: [],
+            messages: [
+                { user: 'Dawid', message: 'Ble ble ble' },
+                { user: 'Andrew', message: 'Lorem ipsum dolor sit amet' }
+            ]
         };
     }
 
@@ -41,8 +46,17 @@ class App extends React.Component {
         clearInterval(this.interval);
     }
 
+    addMessage(message) {
+        this.setState({
+            messages: this.state.messages.concat({
+                user: 'You',
+                message
+            })
+        });
+    }
+
     render() {
-        const { incidents } = this.state;
+        const { incidents, messages } = this.state;
 
         let lastIncident = incidents[incidents.length - 1];
 
@@ -57,6 +71,11 @@ class App extends React.Component {
                     incidents={ incidents }
                     playtime={ lastIncident ? lastIncident.playtime : 0 }
                     stopped={ lastIncident ? !lastIncident.clock : true }
+                />
+
+                <Chat
+                    messages={ messages }
+                    onSendMessage={ this.addMessage.bind(this) }
                 />
             </div>
         );
