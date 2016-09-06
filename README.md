@@ -1,6 +1,8 @@
 GP React Lunch&Learn
 ====================
 
+Slides are available [here](http://www.slideshare.net/DawidRusnak/aplikacje-internetowe-realtime-w-oparciu-o-reactredux).
+
 Introduction
 ------------
 
